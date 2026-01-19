@@ -1,0 +1,257 @@
+---
+title: "Méthodologie de l'Écriture"
+subtitle: "Techniques et stratégies"
+author: "Projet EcrireALUniv"
+date: today
+format:
+  html: default
+  pdf: default
+---
+
+## Introduction
+
+Une méthodologie efficace est essentielle pour produire des écrits académiques de qualité. Ce guide présente des techniques éprouvées pour organiser votre travail et optimiser votre processus d'écriture.
+
+## Planification du travail
+
+### Gestion du temps
+
+::: {.important}
+**Règle des 40-20-40**
+
+- 40% du temps : Recherche et planification
+- 20% du temps : Rédaction du premier jet
+- 40% du temps : Révision et finalisation
+:::
+
+### Calendrier type pour un mémoire
+
+| Étape | Durée | Objectif |
+|-------|-------|----------|
+| Choix du sujet | 1-2 semaines | Définir la problématique |
+| Recherche bibliographique | 3-4 semaines | Constituer le corpus |
+| Plan détaillé | 1 semaine | Structurer l'argumentation |
+| Rédaction | 4-6 semaines | Produire le premier jet |
+| Révision | 2-3 semaines | Améliorer le contenu |
+| Finalisation | 1 semaine | Mise en forme finale |
+
+## Techniques de recherche
+
+### Recherche documentaire
+
+1. **Définir les mots-clés**
+   - Termes principaux
+   - Synonymes et variantes
+   - Termes en anglais
+
+2. **Explorer les bases de données**
+   - Google Scholar
+   - JSTOR
+   - Cairn.info
+   - PubMed (sciences médicales)
+   - arXiv (sciences exactes)
+
+3. **Évaluer les sources**
+
+:::{.callout-warning}
+## Critères de fiabilité
+- Auteur reconnu dans le domaine
+- Publication dans une revue à comité de lecture
+- Date de publication récente
+- Références bibliographiques complètes
+:::
+
+### Prise de notes efficace
+
+Utilisez la méthode Cornell :
+
+```
+┌─────────────────────────────────────┐
+│         Notes principales           │
+│                                     │
+│  - Point clé 1                      │
+│  - Point clé 2                      │
+│  - Citation importante              │
+│                                     │
+├─────────────┬───────────────────────┤
+│  Mots-clés  │    Résumé             │
+│             │                       │
+└─────────────┴───────────────────────┘
+```
+
+## Structuration de l'argumentation
+
+### Le paragraphe académique
+
+Structure type d'un paragraphe :
+
+1. **Phrase d'introduction** (topic sentence)
+2. **Développement et exemples**
+3. **Citation ou données**
+4. **Analyse et interprétation**
+5. **Phrase de transition**
+
+### Exemple de paragraphe structuré
+
+::: {.tip}
+**Phrase d'introduction :** L'apprentissage de l'écriture académique nécessite une pratique régulière et réflexive.
+
+**Développement :** Selon Delcambre (2012), les étudiants qui écrivent régulièrement développent plus rapidement leurs compétences rédactionnelles. Cette pratique permet d'intérioriser les normes et conventions propres à chaque discipline.
+
+**Analyse :** Ces observations suggèrent que l'écriture ne s'apprend pas uniquement par la théorie, mais surtout par l'exercice répété et la rétroaction.
+
+**Transition :** Cette dimension pratique soulève la question des dispositifs d'accompagnement...
+:::
+
+## Révision et amélioration
+
+### Niveaux de révision
+
+#### 1. Révision structurelle
+- Cohérence de l'argumentation
+- Organisation des parties
+- Fil conducteur
+
+#### 2. Révision du contenu
+- Pertinence des exemples
+- Qualité de l'analyse
+- Suffisance des preuves
+
+#### 3. Révision stylistique
+- Clarté des phrases
+- Variété du vocabulaire
+- Ton approprié
+
+#### 4. Révision formelle
+- Orthographe et grammaire
+- Ponctuation
+- Mise en page
+
+### Checklist de révision
+
+```markdown
+## Structure
+- [ ] Introduction avec problématique claire
+- [ ] Plan apparent et logique
+- [ ] Transitions entre les parties
+- [ ] Conclusion qui répond à la problématique
+
+## Contenu
+- [ ] Arguments appuyés par des sources
+- [ ] Citations correctement intégrées
+- [ ] Analyse critique présente
+- [ ] Exemples pertinents
+
+## Style
+- [ ] Phrases claires et concises
+- [ ] Vocabulaire approprié
+- [ ] Ton académique maintenu
+- [ ] Cohérence terminologique
+
+## Forme
+- [ ] Orthographe vérifiée
+- [ ] Grammaire correcte
+- [ ] Bibliographie complète
+- [ ] Mise en page uniforme
+```
+
+## Outils et ressources
+
+### Logiciels de gestion bibliographique
+
+- **Zotero** : Gratuit, open-source, très complet
+- **Mendeley** : Intégration avec Microsoft Word
+- **EndNote** : Standard dans certaines disciplines
+
+### Correcteurs et outils linguistiques
+
+- Antidote (français)
+- Grammarly (anglais)
+- LanguageTool (multilingue, open-source)
+
+### Outils de planification
+
+- Trello ou Notion pour la gestion de projet
+- MindMeister pour les cartes mentales
+- Scrivener pour l'écriture longue
+
+## Stratégies d'écriture
+
+### Pour surmonter le syndrome de la page blanche
+
+1. **Free writing** : Écrire pendant 10 minutes sans s'arrêter
+2. **Plan inversé** : Commencer par une partie facile
+3. **Objectifs modestes** : Viser 500 mots par session
+4. **Routine d'écriture** : Même heure, même lieu
+
+### Pour améliorer la productivité
+
+::: {.callout-tip}
+## Technique Pomodoro
+- 25 minutes de travail concentré
+- 5 minutes de pause
+- Après 4 cycles, pause longue de 15-30 minutes
+:::
+
+### Pour maintenir la motivation
+
+- Célébrez les petites victoires
+- Rejoignez un groupe d'écriture
+- Demandez des retours réguliers
+- Gardez en tête l'objectif final
+
+## Collaboration et retours
+
+### Recevoir des commentaires
+
+- Soyez ouvert aux critiques constructives
+- Posez des questions spécifiques
+- Prenez le temps d'intégrer les suggestions
+- Gardez une trace des versions
+
+### Donner des commentaires
+
+Lorsque vous relisez le travail d'un pair :
+
+1. Commencez par les points positifs
+2. Soyez spécifique et constructif
+3. Proposez des solutions, pas seulement des critiques
+4. Respectez le style de l'auteur
+
+## Éthique de l'écriture
+
+### Éviter le plagiat
+
+- Citez toutes vos sources
+- Paraphrasez avec vos propres mots
+- Utilisez des guillemets pour les citations directes
+- Mentionnez même les idées générales
+
+:::{.callout-warning}
+## Attention
+Le plagiat, même involontaire, peut avoir des conséquences graves :
+- Note zéro
+- Sanctions disciplinaires
+- Atteinte à votre réputation académique
+:::
+
+### Auto-citation
+
+Même vos propres travaux antérieurs doivent être cités pour éviter l'auto-plagiat.
+
+## Conclusion
+
+Une méthodologie rigoureuse transforme l'écriture académique d'une tâche intimidante en un processus maîtrisable. La clé du succès réside dans :
+
+- La planification
+- La régularité
+- La rigueur
+- L'ouverture aux retours
+
+N'oubliez pas : l'écriture académique s'améliore avec la pratique !
+
+## Pour aller plus loin
+
+- [Guide de l'écriture académique](ecriture-academique.qmd)
+- [Ressources et bibliographie](ressources.qmd)
+- [Présentation sur les méthodes d'écriture](presentation.qmd)

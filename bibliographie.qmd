@@ -1,0 +1,163 @@
+---
+title: "Bibliographie"
+subtitle: "Références essentielles"
+author: "Projet EcrireALUniv"
+date: today
+format:
+  html: default
+  pdf: default
+nocite: |
+  @*
+---
+
+## Ouvrages de référence
+
+### Méthodologie générale
+
+Beaud, M. (2006). *L'art de la thèse : Comment préparer et rédiger un mémoire de master, une thèse de doctorat ou tout autre travail universitaire à l'ère du Net*. Paris : La Découverte.
+
+Booth, W. C., Colomb, G. G., & Williams, J. M. (2016). *The Craft of Research* (4th ed.). Chicago: University of Chicago Press.
+
+Eco, U. (2016). *Comment écrire sa thèse*. Paris : Flammarion. (Ouvrage original publié en 1977).
+
+### Écriture académique
+
+Delcambre, I., & Lahanier-Reuter, D. (Éds.). (2012). *Littéracies universitaires : nouvelles perspectives*. Villeneuve d'Ascq : Presses Universitaires du Septentrion.
+
+Pollet, M.-C. (2012). *De la maîtrise du français aux littéracies dans l'enseignement supérieur*. Namur : Presses universitaires de Namur.
+
+Reuter, Y. (2004). *Analyser les problèmes de l'écriture de recherche en formation*. Pratiques, 121-122, 9-27.
+
+### Style et rédaction
+
+Strunk, W., & White, E. B. (2000). *The Elements of Style* (4th ed.). New York: Longman.
+
+Zinsser, W. (2006). *On Writing Well: The Classic Guide to Writing Nonfiction* (30th Anniversary ed.). New York: HarperCollins.
+
+## Articles scientifiques
+
+### Didactique de l'écriture
+
+Beaufort, A. (2007). *College Writing and Beyond: A New Framework for University Writing Instruction*. Logan: Utah State University Press.
+
+Carlino, P. (2013). Alfabetización académica diez años después. *Revista Mexicana de Investigación Educativa*, 18(57), 355-381.
+
+Delcambre, I., & Donahue, C. (2012). Academic writing activity: Student writing in transition. In M. Castelló & C. Donahue (Eds.), *University Writing: Selves and Texts in Academic Societies* (pp. 129-149). Bingley: Emerald.
+
+### Processus d'écriture
+
+Flower, L., & Hayes, J. R. (1981). A Cognitive Process Theory of Writing. *College Composition and Communication*, 32(4), 365-387.
+
+Hayes, J. R. (2012). Modeling and Remodeling Writing. *Written Communication*, 29(3), 369-388.
+
+### Littéracies universitaires
+
+Barton, D., & Hamilton, M. (2000). Literacy Practices. In D. Barton, M. Hamilton, & R. Ivanič (Eds.), *Situated Literacies: Reading and Writing in Context* (pp. 7-15). London: Routledge.
+
+Lea, M. R., & Street, B. V. (1998). Student Writing in Higher Education: An Academic Literacies Approach. *Studies in Higher Education*, 23(2), 157-172.
+
+## Manuels de citation
+
+### APA Style
+
+American Psychological Association. (2020). *Publication Manual of the American Psychological Association* (7th ed.). Washington, DC: American Psychological Association.
+
+### MLA Style
+
+Modern Language Association. (2021). *MLA Handbook* (9th ed.). New York: Modern Language Association of America.
+
+### Chicago Style
+
+The University of Chicago Press. (2017). *The Chicago Manual of Style* (17th ed.). Chicago: University of Chicago Press.
+
+Turabian, K. L. (2018). *A Manual for Writers of Research Papers, Theses, and Dissertations* (9th ed.). Chicago: University of Chicago Press.
+
+## Ressources en ligne
+
+### Guides universitaires
+
+Purdue Online Writing Lab (OWL). (n.d.). *Academic Writing*. Récupéré de https://owl.purdue.edu/owl/general_writing/academic_writing/index.html
+
+The Writing Center, University of North Carolina at Chapel Hill. (n.d.). *Handouts and Links*. Récupéré de https://writingcenter.unc.edu/tips-and-tools/
+
+### Bases de données
+
+CAIRN. (n.d.). *Portail de revues en sciences humaines et sociales*. Récupéré de https://www.cairn.info
+
+HAL. (n.d.). *Archive ouverte pluridisciplinaire*. Récupéré de https://hal.science
+
+## Ouvrages sur la pensée critique
+
+Bowell, T., & Kemp, G. (2015). *Critical Thinking: A Concise Guide* (4th ed.). London: Routledge.
+
+Fisher, A. (2011). *Critical Thinking: An Introduction* (2nd ed.). Cambridge: Cambridge University Press.
+
+Paul, R., & Elder, L. (2019). *The Miniature Guide to Critical Thinking Concepts and Tools* (8th ed.). Lanham: Rowman & Littlefield.
+
+## Ouvrages disciplinaires
+
+### Sciences sociales
+
+Becker, H. S. (2020). *Writing for Social Scientists: How to Start and Finish Your Thesis, Book, or Article* (3rd ed.). Chicago: University of Chicago Press.
+
+Guibert, J., & Jumel, G. (2016). *Méthodologie des pratiques de terrain en sciences humaines et sociales*. Paris : Armand Colin.
+
+### Sciences exactes
+
+Alley, M. (2018). *The Craft of Scientific Writing* (4th ed.). New York: Springer.
+
+Hofmann, A. H. (2019). *Scientific Writing and Communication: Papers, Proposals, and Presentations* (4th ed.). Oxford: Oxford University Press.
+
+### Littérature et humanités
+
+Culler, J. (2011). *Literary Theory: A Very Short Introduction* (2nd ed.). Oxford: Oxford University Press.
+
+Rabatel, A. (2012). *Positions, positionnements et postures de l'énonciateur*. *Travaux neuchâtelois de linguistique*, 56, 23-42.
+
+## Gestion du temps et productivité
+
+Allen, D. (2015). *Getting Things Done: The Art of Stress-Free Productivity*. New York: Penguin Books.
+
+Newport, C. (2016). *Deep Work: Rules for Focused Success in a Distracted World*. New York: Grand Central Publishing.
+
+Silvia, P. J. (2019). *How to Write a Lot: A Practical Guide to Productive Academic Writing* (2nd ed.). Washington, DC: American Psychological Association.
+
+## Aspects psychologiques
+
+Boice, R. (1990). *Professors as Writers: A Self-Help Guide to Productive Writing*. Stillwater: New Forums Press.
+
+Bolker, J. (1998). *Writing Your Dissertation in Fifteen Minutes a Day: A Guide to Starting, Revising, and Finishing Your Doctoral Thesis*. New York: Henry Holt.
+
+## Éthique et intégrité académique
+
+Bretag, T. (Ed.). (2016). *Handbook of Academic Integrity*. Singapore: Springer.
+
+Stern, J. E., & Elliott, D. (1997). *The Ethics of Scientific Research: A Guidebook for Course Development*. Hanover: University Press of New England.
+
+## Revues scientifiques
+
+*Pratiques : Linguistique, littérature, didactique* - Revue sur les pratiques d'écriture
+
+*Written Communication* - Revue internationale sur l'écriture
+
+*Journal of Second Language Writing* - Pour l'écriture en langue seconde
+
+*Across the Disciplines* - Journal sur l'enseignement de l'écriture
+
+## Notes
+
+Cette bibliographie est évolutive. Pour des références plus spécifiques à votre domaine, consultez :
+
+- Les bibliographies des articles de référence dans votre discipline
+- Les listes de lecture de vos cours
+- Les recommandations de votre directeur de recherche
+- Les bases de données spécialisées
+
+---
+
+*Mise à jour : {{< meta date >}}*
+
+::: {.callout-tip}
+## Suggestion
+Pour gérer efficacement ces références, nous recommandons l'utilisation de **Zotero** (voir la section [Ressources](ressources.qmd)).
+:::

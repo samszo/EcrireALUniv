@@ -1,0 +1,72 @@
+---
+title: "Écrire à l'Université"
+subtitle: "Guide pratique pour l'écriture académique"
+author: "Projet EcrireALUniv"
+date: today
+format:
+  html:
+    page-layout: full
+  pdf: default
+---
+
+## Bienvenue
+
+Bienvenue sur le site **Écrire à l'Université**, un projet dédié à l'accompagnement des étudiants et chercheurs dans leurs pratiques d'écriture académique.
+
+## Objectifs du projet
+
+Ce projet vise à :
+
+1. **Guider** les étudiants dans les différentes formes d'écriture universitaire
+2. **Accompagner** le développement des compétences rédactionnelles
+3. **Fournir** des ressources pratiques et des exemples concrets
+4. **Promouvoir** les bonnes pratiques de l'écriture académique
+
+## Contenu disponible
+
+:::{.callout-note}
+## Navigation
+Explorez les différentes sections du site via le menu de navigation pour découvrir :
+
+- Les principes de l'écriture académique
+- Des méthodologies éprouvées
+- Des ressources bibliographiques
+- Des exemples de documents académiques
+:::
+
+### Écriture académique
+
+Découvrez les fondamentaux de l'écriture universitaire, les types de documents académiques et les conventions à respecter.
+
+[Accéder au guide →](ecriture-academique.qmd)
+
+### Méthodologie
+
+Apprenez les méthodes et techniques pour structurer vos écrits, organiser vos idées et rédiger efficacement.
+
+[Voir la méthodologie →](methodologie.qmd)
+
+### Ressources
+
+Consultez notre collection de ressources, d'outils et de références pour approfondir vos connaissances.
+
+[Explorer les ressources →](ressources.qmd)
+
+## À propos de Quarto
+
+::: {.tip}
+Ce site est généré avec [Quarto](https://quarto.org), un système de publication scientifique et technique open-source. Quarto permet de créer :
+
+- **Pages web** interactives et responsive
+- **Documents PDF** de qualité professionnelle
+- **Présentations** dynamiques avec RevealJS
+- Et bien plus encore !
+:::
+
+## Contact et contribution
+
+Ce projet est hébergé sur [GitHub](https://github.com/samszo/EcrireALUniv). N'hésitez pas à contribuer ou à poser des questions.
+
+---
+
+*Dernière mise à jour : {{< meta date >}}*

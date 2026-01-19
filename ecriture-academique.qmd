@@ -1,0 +1,206 @@
+---
+title: "L'Écriture Académique"
+subtitle: "Principes et pratiques"
+author: "Projet EcrireALUniv"
+date: today
+format:
+  html: default
+  pdf:
+    documentclass: article
+    toc: true
+    number-sections: true
+---
+
+## Introduction
+
+L'écriture académique est une compétence essentielle pour réussir dans l'enseignement supérieur. Elle se caractérise par sa rigueur, sa clarté et son objectivité.
+
+## Les types de documents académiques
+
+### 1. Le mémoire de recherche
+
+Le mémoire est un travail de recherche approfondi qui démontre votre capacité à :
+
+- Problématiser un sujet
+- Conduire une recherche bibliographique
+- Analyser des données
+- Argumenter de manière structurée
+
+:::{.callout-important}
+## Structure type d'un mémoire
+1. Introduction (contexte, problématique, méthodologie)
+2. Revue de littérature
+3. Méthodologie
+4. Résultats et analyse
+5. Discussion
+6. Conclusion
+7. Bibliographie
+:::
+
+### 2. L'article scientifique
+
+L'article scientifique suit généralement le format IMRAD :
+
+- **I**ntroduction
+- **M**éthode
+- **R**ésultats
+- **A**nalyse (et discussion)
+- **D**iscussion
+
+### 3. Le rapport de stage
+
+Le rapport de stage présente :
+
+- Le contexte de l'organisation
+- Les missions confiées
+- Les réalisations et apprentissages
+- Une analyse critique de l'expérience
+
+## Principes fondamentaux
+
+### Clarté et précision
+
+::: {.tip}
+**Conseil :** Utilisez des phrases courtes et précises. Évitez les formulations ambiguës.
+:::
+
+- Structurez vos paragraphes autour d'une idée principale
+- Utilisez des connecteurs logiques
+- Définissez les termes techniques
+
+### Objectivité
+
+L'écriture académique requiert une distanciation :
+
+- Évitez la première personne (sauf dans certaines disciplines)
+- Appuyez vos affirmations sur des sources
+- Distinguez faits et opinions
+
+### Rigueur méthodologique
+
+- Citez systématiquement vos sources
+- Respectez les normes de citation (APA, MLA, Chicago, etc.)
+- Vérifiez la fiabilité de vos références
+
+## Le processus d'écriture
+
+```{mermaid}
+flowchart LR
+    A[Recherche] --> B[Plan]
+    B --> C[Première rédaction]
+    C --> D[Révision]
+    D --> E[Relecture]
+    E --> F[Version finale]
+```
+
+### Étape 1 : La recherche
+
+- Délimitez votre sujet
+- Collectez des sources fiables
+- Prenez des notes organisées
+
+### Étape 2 : La planification
+
+- Élaborez un plan détaillé
+- Organisez vos arguments
+- Prévoyez des transitions
+
+### Étape 3 : La rédaction
+
+- Commencez par les parties les plus faciles
+- Ne cherchez pas la perfection au premier jet
+- Maintenez un fil conducteur
+
+### Étape 4 : La révision
+
+- Vérifiez la cohérence globale
+- Renforcez l'argumentation
+- Ajoutez ou supprimez des éléments
+
+### Étape 5 : La relecture
+
+- Corrigez orthographe et grammaire
+- Uniformisez le style
+- Vérifiez les citations et références
+
+## Style et ton
+
+### Vocabulaire académique
+
+Privilégiez un vocabulaire :
+
+- Précis et spécialisé
+- Formel mais accessible
+- Adapté à votre discipline
+
+### Exemples de formulations
+
+| À éviter | À privilégier |
+|----------|---------------|
+| "Je pense que..." | "Cette analyse suggère que..." |
+| "C'est évident que..." | "Les données indiquent que..." |
+| "Tout le monde sait que..." | "Il est établi que..." |
+| "C'est super intéressant" | "Cette approche présente un intérêt majeur" |
+
+## Citations et références
+
+### Citation directe
+
+Lorsque vous citez textuellement un auteur :
+
+> "L'écriture académique est un processus itératif qui nécessite plusieurs phases de révision et d'amélioration" (Dupont, 2023, p. 45).
+
+### Citation indirecte (paraphrase)
+
+Selon Dupont (2023), la rédaction universitaire implique plusieurs étapes de révision successives.
+
+### Système de référencement
+
+Les principaux styles de citation :
+
+- **APA** : Sciences sociales, psychologie, éducation
+- **MLA** : Littérature, arts, humanités
+- **Chicago** : Histoire, sciences sociales
+- **IEEE** : Sciences de l'ingénieur, informatique
+
+## Exercices pratiques
+
+:::{.callout-tip}
+## Exercice 1 : Analyse de structure
+Prenez un article de votre domaine et identifiez :
+
+1. La problématique
+2. Les arguments principaux
+3. Les transitions
+4. La conclusion
+:::
+
+:::{.callout-tip}
+## Exercice 2 : Révision de style
+Réécrivez les phrases suivantes en style académique :
+
+1. "Je trouve que cette théorie est vraiment cool."
+2. "Tout le monde utilise cette méthode."
+3. "C'est complètement faux."
+:::
+
+## Ressources complémentaires
+
+Pour aller plus loin :
+
+- Consultez la section [Ressources](ressources.qmd)
+- Explorez la [Bibliographie](bibliographie.qmd)
+- Regardez la [Présentation](presentation.qmd) sur l'écriture académique
+
+## Conclusion
+
+L'écriture académique est une compétence qui s'acquiert par la pratique régulière. N'hésitez pas à :
+
+- Lire des publications dans votre domaine
+- Demander des retours sur vos écrits
+- Participer à des ateliers d'écriture
+- Utiliser les ressources de votre université
+
+---
+
+*Pour toute question ou suggestion, n'hésitez pas à contribuer sur [GitHub](https://github.com/samszo/EcrireALUniv).*

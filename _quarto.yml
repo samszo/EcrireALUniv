@@ -1,0 +1,60 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Écrire à l'Université"
+  navbar:
+    left:
+      - text: "Accueil"
+        href: index.qmd
+      - text: "Écriture Académique"
+        href: ecriture-academique.qmd
+      - text: "Ressources"
+        href: ressources.qmd
+      - text: "Présentation"
+        href: presentation.qmd
+    right:
+      - icon: github
+        href: https://github.com/samszo/EcrireALUniv
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Guide d'écriture"
+        contents:
+          - index.qmd
+          - ecriture-academique.qmd
+          - methodologie.qmd
+      - section: "Documents"
+        contents:
+          - ressources.qmd
+          - bibliographie.qmd
+
+format:
+  html:
+    theme: 
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    link-external-newwindow: true
+  pdf:
+    documentclass: article
+    toc: true
+    number-sections: true
+    colorlinks: true
+    papersize: a4
+    margin-left: 2.5cm
+    margin-right: 2.5cm
+  revealjs:
+    theme: serif
+    slide-number: true
+    chalkboard: true
+    preview-links: auto
+    transition: slide
+    background-transition: fade
+
+lang: fr

@@ -1,0 +1,290 @@
+---
+title: "Ressources"
+subtitle: "Outils et références pour l'écriture académique"
+author: "Projet EcrireALUniv"
+date: today
+format:
+  html: default
+  pdf: default
+---
+
+## Introduction
+
+Cette page regroupe une sélection de ressources utiles pour développer vos compétences en écriture académique.
+
+## Guides et manuels
+
+### En français
+
+- **Delcambre, I., & Lahanier-Reuter, D.** (2012). *Littéracies universitaires : nouvelles perspectives*. Presses Universitaires du Septentrion.
+
+- **Guibert, J.** (2016). *Méthodologie des sciences sociales*. Armand Colin.
+
+- **Beaud, M.** (2006). *L'art de la thèse : Comment préparer et rédiger un mémoire de master, une thèse de doctorat ou tout autre travail universitaire à l'ère du Net*. La Découverte.
+
+- **Eco, U.** (2016). *Comment écrire sa thèse*. Flammarion.
+
+### En anglais
+
+- **Strunk, W., & White, E.B.** (2000). *The Elements of Style*. Longman.
+
+- **Turabian, K.L.** (2018). *A Manual for Writers of Research Papers, Theses, and Dissertations*. University of Chicago Press.
+
+- **Booth, W.C., Colomb, G.G., & Williams, J.M.** (2016). *The Craft of Research*. University of Chicago Press.
+
+## Guides de citation
+
+### Styles principaux
+
+#### APA (7e édition)
+American Psychological Association
+
+- [Site officiel](https://apastyle.apa.org/)
+- Disciplines : Psychologie, éducation, sciences sociales
+
+**Exemple de citation :**
+> Dupont, J. (2023). L'écriture à l'université. *Revue d'Éducation*, 45(2), 123-145. https://doi.org/10.1234/exemple
+
+#### MLA (9e édition)
+Modern Language Association
+
+- [Site officiel](https://style.mla.org/)
+- Disciplines : Littérature, arts, humanités
+
+**Exemple de citation :**
+> Dupont, Jean. "L'écriture à l'université." *Revue d'Éducation*, vol. 45, no. 2, 2023, pp. 123-145.
+
+#### Chicago (17e édition)
+
+- [Site officiel](https://www.chicagomanualofstyle.org/)
+- Disciplines : Histoire, sciences sociales
+
+**Exemple de citation (notes) :**
+> Jean Dupont, "L'écriture à l'université", *Revue d'Éducation* 45, no. 2 (2023): 123-145.
+
+## Outils numériques
+
+### Gestion bibliographique
+
+::: {.callout-note}
+## Zotero (Recommandé)
+**Gratuit et open-source**
+
+- Installation : [zotero.org](https://www.zotero.org/)
+- Extension navigateur pour capturer les références
+- Intégration avec Word, LibreOffice, Google Docs
+- Synchronisation multi-appareils
+- Collaboration en groupe
+
+**Tutoriels :**
+- [Guide officiel en français](https://www.zotero.org/support/fr/start)
+- Formations proposées par les bibliothèques universitaires
+:::
+
+### Autres gestionnaires
+
+| Outil | Avantages | Limitations |
+|-------|-----------|-------------|
+| **Mendeley** | Interface intuitive, lecteur PDF intégré | Propriétaire (Elsevier) |
+| **EndNote** | Standard dans certaines disciplines | Payant |
+| **JabRef** | Open-source, format BibTeX | Interface moins moderne |
+
+### Correcteurs et assistants
+
+#### Français
+- **Antidote** : Correcteur complet (payant)
+- **BonPatron** : Correcteur en ligne gratuit
+- **Scribens** : Correction orthographique et grammaticale
+
+#### Anglais
+- **Grammarly** : Assistant d'écriture IA
+- **ProWritingAid** : Analyse stylistique approfondie
+- **Hemingway Editor** : Simplification du style
+
+#### Multilingue
+- **LanguageTool** : Open-source, nombreuses langues
+
+### Outils d'écriture
+
+- **Scrivener** : Idéal pour les projets longs (mémoires, thèses)
+- **Ulysses** : Éditeur Markdown élégant (macOS/iOS)
+- **Obsidian** : Prise de notes interconnectées
+- **Notion** : Organisation et planification
+- **Overleaf** : Éditeur LaTeX en ligne collaboratif
+
+## Bases de données académiques
+
+### Multidisciplinaires
+
+- **Google Scholar** : [scholar.google.com](https://scholar.google.com)
+  - Gratuit, très complet
+  - Recherche dans toutes les disciplines
+
+- **BASE** : [base-search.net](https://www.base-search.net)
+  - Moteur de recherche académique
+  - Accès libre aux publications scientifiques
+
+### Sciences humaines et sociales
+
+- **Cairn.info** : [cairn.info](https://www.cairn.info)
+  - Revues francophones
+  - Accès via les bibliothèques universitaires
+
+- **Persée** : [persee.fr](https://www.persee.fr)
+  - Revues scientifiques françaises
+  - Archives numériques
+
+- **OpenEdition** : [openedition.org](https://www.openedition.org)
+  - Livres et revues en sciences humaines
+  - Partie en libre accès
+
+### Sciences exactes et médicales
+
+- **PubMed** : [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov)
+  - Biomédecine et sciences de la vie
+
+- **arXiv** : [arxiv.org](https://arxiv.org)
+  - Prépublications en physique, mathématiques, informatique
+
+- **IEEE Xplore** : [ieeexplore.ieee.org](https://ieeexplore.ieee.org)
+  - Ingénierie et informatique
+
+## Sites institutionnels
+
+### Centres d'aide à l'écriture
+
+#### France
+- **CROUS** : Ateliers d'écriture dans les universités
+- **Bibliothèques universitaires** : Formations à la recherche documentaire
+
+#### Canada
+- **CÉFES** (Centre d'études et de formation en enseignement supérieur)
+- **Writing Centers** dans les universités anglophones
+
+#### Belgique
+- **Centre de méthodologie universitaire** (Louvain)
+
+### Archives ouvertes
+
+- **HAL** (France) : [hal.science](https://hal.science)
+- **ORBi** (Belgique) : [orbi.uliege.be](https://orbi.uliege.be)
+- **Papyrus** (Québec) : Dépôt institutionnel de l'Université de Montréal
+
+## MOOCs et formations en ligne
+
+### Écriture académique
+
+- **Coursera** : "Writing in the Sciences" (Stanford)
+- **edX** : Cours sur l'écriture académique de plusieurs universités
+- **FUN-MOOC** : "Écrire et faire écrire" (France Université Numérique)
+
+### Méthodologie de recherche
+
+- **Research Methods** sur diverses plateformes
+- **Data Analysis** et statistiques
+- **Scientific Writing** en anglais
+
+## Podcasts et chaînes YouTube
+
+### Podcasts
+
+- **Les cours du Collège de France** : Méthodologie de recherche
+- **La méthode scientifique** (France Culture)
+
+### Chaînes YouTube
+
+- **La Tronche en Biais** : Pensée critique
+- **Grain de philo** : Argumentation
+- **Science4All** : Méthodologie scientifique
+
+## Blogs et sites web
+
+- **The Thesis Whisperer** : [thesiswhisperer.com](https://thesiswhisperer.com)
+  - Conseils pour doctorants
+  - Articles sur l'écriture académique
+
+- **PhD Comics** : [phdcomics.com](https://phdcomics.com)
+  - Humour sur la vie académique
+
+- **Academia Stack Exchange** : Questions-réponses sur la recherche
+
+## Ateliers et formations
+
+### Types d'ateliers disponibles
+
+1. **Ateliers d'écriture**
+   - Écriture créative appliquée à l'académique
+   - Séances de rédaction en groupe
+
+2. **Formations méthodologiques**
+   - Recherche documentaire
+   - Gestion bibliographique
+   - Utilisation des bases de données
+
+3. **Retraites d'écriture**
+   - Séjours intensifs de rédaction
+   - Accompagnement par des pairs
+
+### Où trouver ces ateliers ?
+
+- Bibliothèques universitaires
+- Services pédagogiques des universités
+- Écoles doctorales
+- Associations d'étudiants
+
+## Applications mobiles
+
+### Organisation
+- **Trello** : Gestion de projet
+- **Todoist** : Gestion des tâches
+- **Forest** : Concentration (gamification)
+
+### Lecture et annotation
+- **PDF Expert** : Annotation de PDF
+- **MarginNote** : Prise de notes sur PDF
+- **Kindle** : Lecture d'articles et livres
+
+### Écriture
+- **iA Writer** : Éditeur Markdown minimaliste
+- **Bear** : Prise de notes élégante (iOS/macOS)
+
+## Communautés et réseaux
+
+### Réseaux sociaux académiques
+
+- **ResearchGate** : Partage de publications
+- **Academia.edu** : Profil académique
+- **Twitter/X** : #AcademicTwitter, #PhDLife
+
+### Forums et groupes
+
+- **Reddit** : r/AskAcademia, r/GradSchool
+- **Discord** : Serveurs d'étudiants par discipline
+- **Slack** : Groupes d'écriture
+
+## Annexes : Modèles et exemples
+
+### Modèles de documents
+
+- [Modèle de page de titre](#)
+- [Exemple de plan détaillé](#)
+- [Template de bibliographie](#)
+
+### Exemples annotés
+
+:::{.callout-tip}
+## À venir
+Cette section sera enrichie avec des exemples de travaux académiques commentés montrant les bonnes pratiques.
+:::
+
+## Conclusion
+
+N'hésitez pas à explorer ces ressources et à les adapter à vos besoins. L'écriture académique est un parcours d'apprentissage continu !
+
+## Contribuer
+
+Vous connaissez une ressource utile ? Proposez-la sur [GitHub](https://github.com/samszo/EcrireALUniv) !
+
+---
+
+*Dernière mise à jour : {{< meta date >}}*

@@ -1,0 +1,423 @@
+---
+title: "Écrire à l'Université"
+subtitle: "Guide de l'écriture académique"
+author: "Projet EcrireALUniv"
+date: today
+format:
+  revealjs:
+    theme: serif
+    slide-number: true
+    chalkboard: true
+    preview-links: auto
+    transition: slide
+    background-transition: fade
+    logo: https://via.placeholder.com/100x100/2c3e50/ffffff?text=EAU
+    footer: "Écrire à l'Université - 2024"
+---
+
+# Introduction {background-color="#2c3e50"}
+
+## Bienvenue
+
+::: {.incremental}
+- Bienvenue dans le projet **Écrire à l'Université**
+- Un guide complet pour l'écriture académique
+- Des ressources pour tous les niveaux
+- Des outils pratiques et méthodologiques
+:::
+
+## Objectifs de cette présentation
+
+::: {.incremental}
+1. Comprendre les principes de l'écriture académique
+2. Découvrir les méthodes efficaces
+3. Explorer les ressources disponibles
+4. Développer ses compétences rédactionnelles
+:::
+
+# L'Écriture Académique {background-color="#3498db"}
+
+## Qu'est-ce que l'écriture académique ?
+
+::: {.columns}
+::: {.column width="50%"}
+**Caractéristiques :**
+
+- Rigueur
+- Clarté
+- Objectivité
+- Structure
+:::
+
+::: {.column width="50%"}
+**Objectifs :**
+
+- Communiquer des idées
+- Argumenter
+- Convaincre
+- Contribuer au savoir
+:::
+:::
+
+## Types de documents
+
+::: {.incremental}
+1. **Mémoire de recherche**
+   - Travail approfondi
+   - Démonstration de compétences
+
+2. **Article scientifique**
+   - Format IMRAD
+   - Publication dans des revues
+
+3. **Rapport de stage**
+   - Analyse d'expérience
+   - Réflexion critique
+:::
+
+## La structure IMRAD
+
+```{mermaid}
+flowchart TD
+    A[Introduction] --> B[Méthode]
+    B --> C[Résultats]
+    C --> D[Analyse]
+    D --> E[Discussion]
+    style A fill:#3498db
+    style B fill:#2ecc71
+    style C fill:#f39c12
+    style D fill:#e74c3c
+    style E fill:#9b59b6
+```
+
+# Principes Fondamentaux {background-color="#2c3e50"}
+
+## Clarté et Précision
+
+::: {.callout-tip}
+## Conseil
+Utilisez des phrases courtes et précises.
+:::
+
+- Structurez vos paragraphes
+- Utilisez des connecteurs logiques
+- Définissez les termes techniques
+- Évitez les ambiguïtés
+
+## Objectivité
+
+::: {.fragment}
+**À éviter :**
+> "Je pense que cette théorie est vraiment cool."
+:::
+
+::: {.fragment}
+**À privilégier :**
+> "Cette théorie présente plusieurs avantages méthodologiques."
+:::
+
+## Rigueur Méthodologique {.smaller}
+
+| Aspect | Bonne pratique |
+|--------|----------------|
+| **Citations** | Systématiquement citées |
+| **Sources** | Fiables et vérifiées |
+| **Paraphrase** | Avec vos propres mots |
+| **Style** | Respecte les normes |
+
+# Le Processus d'Écriture {background-color="#3498db"}
+
+## Les 5 Étapes
+
+::: {.incremental}
+1. 🔍 **Recherche** - Collecter l'information
+2. 📝 **Planification** - Organiser les idées
+3. ✍️ **Rédaction** - Produire le premier jet
+4. 🔄 **Révision** - Améliorer le contenu
+5. ✅ **Finalisation** - Corriger et mettre en forme
+:::
+
+## La Règle des 40-20-40
+
+::: {.r-stack}
+::: {.fragment .fade-in-then-out}
+### 40% - Recherche et Planification
+Collecte d'information, lectures, plan détaillé
+:::
+
+::: {.fragment .fade-in-then-out}
+### 20% - Rédaction
+Premier jet, mise par écrit des idées
+:::
+
+::: {.fragment .fade-in}
+### 40% - Révision et Finalisation
+Amélioration, correction, mise en forme
+:::
+:::
+
+## Surmonter la Page Blanche
+
+::: {.incremental}
+- **Free writing** : Écrire 10 min sans s'arrêter
+- **Plan inversé** : Commencer par une partie facile
+- **Objectifs modestes** : 500 mots par session
+- **Routine** : Même heure, même lieu
+:::
+
+# Méthodologie {background-color="#2c3e50"}
+
+## Le Paragraphe Académique
+
+::: {.fragment}
+1. **Phrase d'introduction** (topic sentence)
+:::
+
+::: {.fragment}
+2. **Développement** et exemples
+:::
+
+::: {.fragment}
+3. **Citation** ou données
+:::
+
+::: {.fragment}
+4. **Analyse** et interprétation
+:::
+
+::: {.fragment}
+5. **Phrase de transition**
+:::
+
+## Exemple de Paragraphe {.smaller}
+
+::: {.callout-note appearance="minimal"}
+**Introduction :** L'apprentissage de l'écriture académique nécessite une pratique régulière.
+
+**Développement :** Selon Delcambre (2012), les étudiants qui écrivent régulièrement développent plus rapidement leurs compétences.
+
+**Analyse :** Ces observations suggèrent que l'écriture s'apprend surtout par l'exercice répété.
+
+**Transition :** Cette dimension pratique soulève la question des dispositifs d'accompagnement...
+:::
+
+## Recherche Documentaire
+
+::: {.columns}
+::: {.column width="50%"}
+**Bases de données :**
+
+- Google Scholar
+- JSTOR
+- Cairn.info
+- PubMed
+- arXiv
+:::
+
+::: {.column width="50%"}
+**Critères de qualité :**
+
+- Auteur reconnu
+- Revue à comité
+- Date récente
+- Références complètes
+:::
+:::
+
+# Outils et Ressources {background-color="#3498db"}
+
+## Gestion Bibliographique
+
+::: {.columns}
+::: {.column width="33%"}
+![](https://via.placeholder.com/150/e74c3c/ffffff?text=Zotero)
+
+**Zotero**
+
+Gratuit et complet
+:::
+
+::: {.column width="33%"}
+![](https://via.placeholder.com/150/3498db/ffffff?text=Mendeley)
+
+**Mendeley**
+
+Intégré à Word
+:::
+
+::: {.column width="33%"}
+![](https://via.placeholder.com/150/2ecc71/ffffff?text=EndNote)
+
+**EndNote**
+
+Standard discipline
+:::
+:::
+
+## Correcteurs
+
+::: {.incremental}
+- **Antidote** (français) - Correcteur complet
+- **Grammarly** (anglais) - Assistant IA
+- **LanguageTool** (multilingue) - Open source
+:::
+
+## Styles de Citation
+
+::: {.fragment}
+### APA (American Psychological Association)
+Sciences sociales, psychologie, éducation
+:::
+
+::: {.fragment}
+### MLA (Modern Language Association)
+Littérature, arts, humanités
+:::
+
+::: {.fragment}
+### Chicago
+Histoire, sciences sociales
+:::
+
+# Bonnes Pratiques {background-color="#2c3e50"}
+
+## Checklist de Révision {.smaller}
+
+::: {.columns}
+::: {.column width="50%"}
+**Structure**
+
+- ✓ Introduction claire
+- ✓ Plan logique
+- ✓ Transitions
+- ✓ Conclusion
+:::
+
+::: {.column width="50%"}
+**Contenu**
+
+- ✓ Arguments sourcés
+- ✓ Citations intégrées
+- ✓ Analyse présente
+- ✓ Exemples pertinents
+:::
+:::
+
+## Éviter le Plagiat
+
+::: {.callout-warning}
+## Attention !
+Le plagiat peut entraîner des sanctions graves.
+:::
+
+::: {.incremental}
+- Citez **toutes** vos sources
+- Paraphrasez avec vos propres mots
+- Utilisez des guillemets pour les citations directes
+- Même vos travaux antérieurs doivent être cités
+:::
+
+## Technique Pomodoro
+
+![](https://via.placeholder.com/600x200/e74c3c/ffffff?text=25min+TRAVAIL+→+5min+PAUSE)
+
+::: {.incremental}
+- 25 minutes de travail concentré
+- 5 minutes de pause
+- Après 4 cycles : pause longue (15-30 min)
+:::
+
+# Projet Quarto {background-color="#3498db"}
+
+## Pourquoi Quarto ?
+
+::: {.incremental}
+- 📄 **Multi-formats** : HTML, PDF, présentations
+- 🔄 **Reproductible** : Code + texte
+- 🎨 **Flexible** : Personnalisation facile
+- 🌐 **Open source** : Gratuit et communautaire
+:::
+
+## Ce que vous pouvez créer
+
+::: {.columns}
+::: {.column width="33%"}
+### Sites Web
+Documentation interactive et responsive
+:::
+
+::: {.column width="33%"}
+### Documents PDF
+Articles et mémoires professionnels
+:::
+
+::: {.column width="33%"}
+### Présentations
+Slides dynamiques comme celle-ci !
+:::
+:::
+
+## Exemple de Code Quarto
+
+```markdown
+---
+title: "Mon Document"
+format: html
+---
+
+## Introduction
+
+Mon texte avec **mise en forme**.
+
+```{{r}}
+# Code R intégré
+summary(cars)
+```
+
+# Conclusion {background-color="#2c3e50"}
+
+## Points Clés à Retenir
+
+::: {.incremental}
+1. L'écriture académique demande **rigueur** et **clarté**
+2. La **méthodologie** est essentielle
+3. Les **outils** facilitent le travail
+4. La **pratique** régulière améliore les compétences
+:::
+
+## Ressources Disponibles
+
+::: {.callout-tip}
+## Sur notre site
+- Guides détaillés
+- Méthodologie complète
+- Bibliographie commentée
+- Exemples et modèles
+:::
+
+## Pour Aller Plus Loin
+
+::: {.incremental}
+- 📚 Consultez notre [bibliographie](bibliographie.qmd)
+- 🛠️ Explorez les [ressources](ressources.qmd)
+- 📖 Lisez le [guide complet](ecriture-academique.qmd)
+- 💬 Rejoignez la communauté sur GitHub
+:::
+
+## Questions ?
+
+::: {.r-fit-text}
+Merci de votre attention !
+:::
+
+::: {.fragment}
+🌐 [github.com/samszo/EcrireALUniv](https://github.com/samszo/EcrireALUniv)
+:::
+
+---
+
+### L'écriture académique est un voyage, pas une destination.
+
+::: {.fragment}
+**Bonne écriture à tous !** ✍️
+:::
