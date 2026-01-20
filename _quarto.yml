@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
 
 website:
   title: "Écrire à l'Université"
@@ -16,7 +16,7 @@ website:
         href: presentation.qmd
     right:
       - icon: github
-        href: https://github.com/samszo/EcrireALUniv
+        href: https://github.com/samszo/EcrireALUniV
   sidebar:
     style: "docked"
     search: true
