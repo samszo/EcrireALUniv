@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 
-version: 0.0.1
+version: 0.0.2
 author:
   - name: Samuel Szoniecky
     orcid: 0000-0002-7643-3342
