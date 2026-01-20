@@ -1,6 +1,7 @@
 ---
 title: "Écrire à l'Université"
 subtitle: "Guide pratique pour l'écriture académique"
+bibliography: index.bib
 version: 0.0.1
 author:
   - name: Samuel Szoniecky
@@ -18,6 +19,21 @@ format:
   pdf: default
 ---
 
+::: {#exergue1 .exergue}
+« trouver une façon d'écrire qui,\
+tout en partant d'idées,\
+ne soit pas un discours sur elles :\
+ou ne soit pas sur des idées\
+mais les produise. »\
+[John Cage, cité par @scottlee1998, p. 307]
+:::
+
+::: {#exergue2 .exergue}
+« N'ayez pas peur ! »\
+[Jean-Paul II, messe d'intronisation, le 22 octobre 1978]
+:::
+
+
 ## Bienvenue
 
 Bienvenue sur le site **Écrire à l'Université**, un projet dédié à l'accompagnement des étudiants et chercheurs dans leurs pratiques d'écriture académique.
@@ -26,21 +42,22 @@ Bienvenue sur le site **Écrire à l'Université**, un projet dédié à l'accom
 
 Ce projet vise à :
 
-1. **Guider** les étudiants dans les différentes formes d'écriture universitaire
-2. **Accompagner** le développement des compétences rédactionnelles
-3. **Fournir** des ressources pratiques et des exemples concrets
-4. **Promouvoir** les bonnes pratiques de l'écriture académique
+1.  **Guider** les étudiants dans les différentes formes d'écriture universitaire
+2.  **Accompagner** le développement des compétences rédactionnelles
+3.  **Fournir** des ressources pratiques et des exemples concrets
+4.  **Promouvoir** les bonnes pratiques de l'écriture académique
 
 ## Contenu disponible
 
-:::{.callout-note}
+::: callout-note
 ## Navigation
+
 Explorez les différentes sections du site via le menu de navigation pour découvrir :
 
-- Les principes de l'écriture académique
-- Des méthodologies éprouvées
-- Des ressources bibliographiques
-- Des exemples de documents académiques
+-   Les principes de l'écriture académique
+-   Des méthodologies éprouvées
+-   Des ressources bibliographiques
+-   Des exemples de documents académiques
 :::
 
 ### Écriture académique
@@ -61,21 +78,28 @@ Consultez notre collection de ressources, d'outils et de références pour appro
 
 [Explorer les ressources →](ressources.qmd)
 
+### Expérimenter des pratiques innovantes
+
+```{=html}
+<iframe width="100%" height="800" src="https://samszo.github.io/ConfErrance/balpe2025.html" title="Des générateurs chaotiques aux IA génératives"></iframe>
+```
+
+
 ## À propos de Quarto
 
-::: {.tip}
+::: tip
 Ce site est généré avec [Quarto](https://quarto.org), un système de publication scientifique et technique open-source. Quarto permet de créer :
 
-- **Pages web** interactives et responsive
-- **Documents PDF** de qualité professionnelle
-- **Présentations** dynamiques avec RevealJS
-- Et bien plus encore !
+-   **Pages web** interactives et responsive
+-   **Documents PDF** de qualité professionnelle
+-   **Présentations** dynamiques avec RevealJS
+-   Et bien plus encore !
 :::
 
 ## Contact et contribution
 
 Ce projet est hébergé sur [GitHub](https://github.com/samszo/EcrireALUniv). N'hésitez pas à contribuer ou à poser des questions.
 
----
+------------------------------------------------------------------------
 
-*Dernière mise à jour : {{< meta date >}}*
+*Dernière mise à jour :* {{< meta date >}}
