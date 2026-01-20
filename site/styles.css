@@ -1,0 +1,68 @@
+/* Styles personnalisés pour Écrire à l'Université */
+
+:root {
+  --primary-color: #2c3e50;
+  --secondary-color: #3498db;
+  --accent-color: #e74c3c;
+}
+
+body {
+  font-family: 'Georgia', serif;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--primary-color);
+  margin-top: 1.5em;
+  margin-bottom: 0.75em;
+}
+
+.quarto-title-banner {
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+  color: white;
+}
+
+blockquote {
+  border-left: 4px solid var(--secondary-color);
+  padding-left: 1em;
+  margin-left: 0;
+  font-style: italic;
+  color: #555;
+}
+
+.callout {
+  border-radius: 0.25rem;
+  margin-bottom: 1rem;
+}
+
+code {
+  background-color: #f4f4f4;
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 1em;
+  overflow-x: auto;
+}
+
+.important {
+  background-color: #fff3cd;
+  border-left: 4px solid #ffc107;
+  padding: 1em;
+  margin: 1em 0;
+}
+
+.tip {
+  background-color: #d1ecf1;
+  border-left: 4px solid #17a2b8;
+  padding: 1em;
+  margin: 1em 0;
+}
+.exergue{
+    text-align: right;
+}

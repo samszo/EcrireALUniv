@@ -1,0 +1,863 @@
+[
+  {
+    "objectID": "ressources.html",
+    "href": "ressources.html",
+    "title": "Ressources",
+    "section": "",
+    "text": "Cette page regroupe une sélection de ressources utiles pour développer vos compétences en écriture académique.",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Ressources"
+    ]
+  },
+  {
+    "objectID": "ressources.html#introduction",
+    "href": "ressources.html#introduction",
+    "title": "Ressources",
+    "section": "",
+    "text": "Cette page regroupe une sélection de ressources utiles pour développer vos compétences en écriture académique.",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Ressources"
+    ]
+  },
+  {
+    "objectID": "ressources.html#guides-et-manuels",
+    "href": "ressources.html#guides-et-manuels",
+    "title": "Ressources",
+    "section": "2 Guides et manuels",
+    "text": "2 Guides et manuels\n\n2.1 En français\n\nDelcambre, I., & Lahanier-Reuter, D. (2012). Littéracies universitaires : nouvelles perspectives. Presses Universitaires du Septentrion.\nGuibert, J. (2016). Méthodologie des sciences sociales. Armand Colin.\nBeaud, M. (2006). L’art de la thèse : Comment préparer et rédiger un mémoire de master, une thèse de doctorat ou tout autre travail universitaire à l’ère du Net. La Découverte.\nEco, U. (2016). Comment écrire sa thèse. Flammarion.\n\n\n\n2.2 En anglais\n\nStrunk, W., & White, E.B. (2000). The Elements of Style. Longman.\nTurabian, K.L. (2018). A Manual for Writers of Research Papers, Theses, and Dissertations. University of Chicago Press.\nBooth, W.C., Colomb, G.G., & Williams, J.M. (2016). The Craft of Research. University of Chicago Press.",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Ressources"
+    ]
+  },
+  {
+    "objectID": "ressources.html#guides-de-citation",
+    "href": "ressources.html#guides-de-citation",
+    "title": "Ressources",
+    "section": "3 Guides de citation",
+    "text": "3 Guides de citation\n\n3.1 Styles principaux\n\n3.1.1 APA (7e édition)\nAmerican Psychological Association\n\nSite officiel\nDisciplines : Psychologie, éducation, sciences sociales\n\nExemple de citation : &gt; Dupont, J. (2023). L’écriture à l’université. Revue d’Éducation, 45(2), 123-145. https://doi.org/10.1234/exemple\n\n\n3.1.2 MLA (9e édition)\nModern Language Association\n\nSite officiel\nDisciplines : Littérature, arts, humanités\n\nExemple de citation : &gt; Dupont, Jean. “L’écriture à l’université.” Revue d’Éducation, vol. 45, no. 2, 2023, pp. 123-145.\n\n\n3.1.3 Chicago (17e édition)\n\nSite officiel\nDisciplines : Histoire, sciences sociales\n\nExemple de citation (notes) : &gt; Jean Dupont, “L’écriture à l’université”, Revue d’Éducation 45, no. 2 (2023): 123-145.",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Ressources"
+    ]
+  },
+  {
+    "objectID": "ressources.html#outils-numériques",
+    "href": "ressources.html#outils-numériques",
+    "title": "Ressources",
+    "section": "4 Outils numériques",
+    "text": "4 Outils numériques\n\n4.1 Gestion bibliographique\n\n\n\n\n\n\nNoteZotero (Recommandé)\n\n\n\nGratuit et open-source\n\nInstallation : zotero.org\nExtension navigateur pour capturer les références\nIntégration avec Word, LibreOffice, Google Docs\nSynchronisation multi-appareils\nCollaboration en groupe\n\nTutoriels : - Guide officiel en français - Formations proposées par les bibliothèques universitaires\n\n\n\n\n4.2 Autres gestionnaires\n\n\n\n\n\n\n\n\nOutil\nAvantages\nLimitations\n\n\n\n\nMendeley\nInterface intuitive, lecteur PDF intégré\nPropriétaire (Elsevier)\n\n\nEndNote\nStandard dans certaines disciplines\nPayant\n\n\nJabRef\nOpen-source, format BibTeX\nInterface moins moderne\n\n\n\n\n\n4.3 Correcteurs et assistants\n\n4.3.1 Français\n\nAntidote : Correcteur complet (payant)\nBonPatron : Correcteur en ligne gratuit\nScribens : Correction orthographique et grammaticale\n\n\n\n4.3.2 Anglais\n\nGrammarly : Assistant d’écriture IA\nProWritingAid : Analyse stylistique approfondie\nHemingway Editor : Simplification du style\n\n\n\n4.3.3 Multilingue\n\nLanguageTool : Open-source, nombreuses langues\n\n\n\n\n4.4 Outils d’écriture\n\nScrivener : Idéal pour les projets longs (mémoires, thèses)\nUlysses : Éditeur Markdown élégant (macOS/iOS)\nObsidian : Prise de notes interconnectées\nNotion : Organisation et planification\nOverleaf : Éditeur LaTeX en ligne collaboratif",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Ressources"
+    ]
+  },
+  {
+    "objectID": "ressources.html#bases-de-données-académiques",
+    "href": "ressources.html#bases-de-données-académiques",
+    "title": "Ressources",
+    "section": "5 Bases de données académiques",
+    "text": "5 Bases de données académiques\n\n5.1 Multidisciplinaires\n\nGoogle Scholar : scholar.google.com\n\nGratuit, très complet\nRecherche dans toutes les disciplines\n\nBASE : base-search.net\n\nMoteur de recherche académique\nAccès libre aux publications scientifiques\n\n\n\n\n5.2 Sciences humaines et sociales\n\nCairn.info : cairn.info\n\nRevues francophones\nAccès via les bibliothèques universitaires\n\nPersée : persee.fr\n\nRevues scientifiques françaises\nArchives numériques\n\nOpenEdition : openedition.org\n\nLivres et revues en sciences humaines\nPartie en libre accès\n\n\n\n\n5.3 Sciences exactes et médicales\n\nPubMed : pubmed.ncbi.nlm.nih.gov\n\nBiomédecine et sciences de la vie\n\narXiv : arxiv.org\n\nPrépublications en physique, mathématiques, informatique\n\nIEEE Xplore : ieeexplore.ieee.org\n\nIngénierie et informatique",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Ressources"
+    ]
+  },
+  {
+    "objectID": "ressources.html#sites-institutionnels",
+    "href": "ressources.html#sites-institutionnels",
+    "title": "Ressources",
+    "section": "6 Sites institutionnels",
+    "text": "6 Sites institutionnels\n\n6.1 Centres d’aide à l’écriture\n\n6.1.1 France\n\nCROUS : Ateliers d’écriture dans les universités\nBibliothèques universitaires : Formations à la recherche documentaire\n\n\n\n6.1.2 Canada\n\nCÉFES (Centre d’études et de formation en enseignement supérieur)\nWriting Centers dans les universités anglophones\n\n\n\n6.1.3 Belgique\n\nCentre de méthodologie universitaire (Louvain)\n\n\n\n\n6.2 Archives ouvertes\n\nHAL (France) : hal.science\nORBi (Belgique) : orbi.uliege.be\nPapyrus (Québec) : Dépôt institutionnel de l’Université de Montréal",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Ressources"
+    ]
+  },
+  {
+    "objectID": "ressources.html#moocs-et-formations-en-ligne",
+    "href": "ressources.html#moocs-et-formations-en-ligne",
+    "title": "Ressources",
+    "section": "7 MOOCs et formations en ligne",
+    "text": "7 MOOCs et formations en ligne\n\n7.1 Écriture académique\n\nCoursera : “Writing in the Sciences” (Stanford)\nedX : Cours sur l’écriture académique de plusieurs universités\nFUN-MOOC : “Écrire et faire écrire” (France Université Numérique)\n\n\n\n7.2 Méthodologie de recherche\n\nResearch Methods sur diverses plateformes\nData Analysis et statistiques\nScientific Writing en anglais",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Ressources"
+    ]
+  },
+  {
+    "objectID": "ressources.html#podcasts-et-chaînes-youtube",
+    "href": "ressources.html#podcasts-et-chaînes-youtube",
+    "title": "Ressources",
+    "section": "8 Podcasts et chaînes YouTube",
+    "text": "8 Podcasts et chaînes YouTube\n\n8.1 Podcasts\n\nLes cours du Collège de France : Méthodologie de recherche\nLa méthode scientifique (France Culture)\n\n\n\n8.2 Chaînes YouTube\n\nLa Tronche en Biais : Pensée critique\nGrain de philo : Argumentation\nScience4All : Méthodologie scientifique",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Ressources"
+    ]
+  },
+  {
+    "objectID": "ressources.html#blogs-et-sites-web",
+    "href": "ressources.html#blogs-et-sites-web",
+    "title": "Ressources",
+    "section": "9 Blogs et sites web",
+    "text": "9 Blogs et sites web\n\nThe Thesis Whisperer : thesiswhisperer.com\n\nConseils pour doctorants\nArticles sur l’écriture académique\n\nPhD Comics : phdcomics.com\n\nHumour sur la vie académique\n\nAcademia Stack Exchange : Questions-réponses sur la recherche",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Ressources"
+    ]
+  },
+  {
+    "objectID": "ressources.html#ateliers-et-formations",
+    "href": "ressources.html#ateliers-et-formations",
+    "title": "Ressources",
+    "section": "10 Ateliers et formations",
+    "text": "10 Ateliers et formations\n\n10.1 Types d’ateliers disponibles\n\nAteliers d’écriture\n\nÉcriture créative appliquée à l’académique\nSéances de rédaction en groupe\n\nFormations méthodologiques\n\nRecherche documentaire\nGestion bibliographique\nUtilisation des bases de données\n\nRetraites d’écriture\n\nSéjours intensifs de rédaction\nAccompagnement par des pairs\n\n\n\n\n10.2 Où trouver ces ateliers ?\n\nBibliothèques universitaires\nServices pédagogiques des universités\nÉcoles doctorales\nAssociations d’étudiants",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Ressources"
+    ]
+  },
+  {
+    "objectID": "ressources.html#applications-mobiles",
+    "href": "ressources.html#applications-mobiles",
+    "title": "Ressources",
+    "section": "11 Applications mobiles",
+    "text": "11 Applications mobiles\n\n11.1 Organisation\n\nTrello : Gestion de projet\nTodoist : Gestion des tâches\nForest : Concentration (gamification)\n\n\n\n11.2 Lecture et annotation\n\nPDF Expert : Annotation de PDF\nMarginNote : Prise de notes sur PDF\nKindle : Lecture d’articles et livres\n\n\n\n11.3 Écriture\n\niA Writer : Éditeur Markdown minimaliste\nBear : Prise de notes élégante (iOS/macOS)",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Ressources"
+    ]
+  },
+  {
+    "objectID": "ressources.html#communautés-et-réseaux",
+    "href": "ressources.html#communautés-et-réseaux",
+    "title": "Ressources",
+    "section": "12 Communautés et réseaux",
+    "text": "12 Communautés et réseaux\n\n12.1 Réseaux sociaux académiques\n\nResearchGate : Partage de publications\nAcademia.edu : Profil académique\nTwitter/X : #AcademicTwitter, #PhDLife\n\n\n\n12.2 Forums et groupes\n\nReddit : r/AskAcademia, r/GradSchool\nDiscord : Serveurs d’étudiants par discipline\nSlack : Groupes d’écriture",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Ressources"
+    ]
+  },
+  {
+    "objectID": "ressources.html#annexes-modèles-et-exemples",
+    "href": "ressources.html#annexes-modèles-et-exemples",
+    "title": "Ressources",
+    "section": "13 Annexes : Modèles et exemples",
+    "text": "13 Annexes : Modèles et exemples\n\n13.1 Modèles de documents\n\nModèle de page de titre\nExemple de plan détaillé\nTemplate de bibliographie\n\n\n\n13.2 Exemples annotés\n\n\n\n\n\n\nAstuceÀ venir\n\n\n\nCette section sera enrichie avec des exemples de travaux académiques commentés montrant les bonnes pratiques.",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Ressources"
+    ]
+  },
+  {
+    "objectID": "ressources.html#conclusion",
+    "href": "ressources.html#conclusion",
+    "title": "Ressources",
+    "section": "14 Conclusion",
+    "text": "14 Conclusion\nN’hésitez pas à explorer ces ressources et à les adapter à vos besoins. L’écriture académique est un parcours d’apprentissage continu !",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Ressources"
+    ]
+  },
+  {
+    "objectID": "ressources.html#contribuer",
+    "href": "ressources.html#contribuer",
+    "title": "Ressources",
+    "section": "15 Contribuer",
+    "text": "15 Contribuer\nVous connaissez une ressource utile ? Proposez-la sur GitHub !\n\nDernière mise à jour : 20 janvier 2026",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Ressources"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Écrire à l’Université",
+    "section": "",
+    "text": "« trouver une façon d’écrire qui,\ntout en partant d’idées,\nne soit pas un discours sur elles :\nou ne soit pas sur des idées\nmais les produise. »\n(John Cage, cité par Scott Lee 1998, 307)",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "Écrire à l'Université"
+    ]
+  },
+  {
+    "objectID": "index.html#bienvenue",
+    "href": "index.html#bienvenue",
+    "title": "Écrire à l’Université",
+    "section": "1 Bienvenue",
+    "text": "1 Bienvenue\nBienvenue sur le site Écrire à l’Université, un projet dédié à l’accompagnement des étudiants et chercheurs dans leurs pratiques d’écriture académique.",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "Écrire à l'Université"
+    ]
+  },
+  {
+    "objectID": "index.html#objectifs-du-projet",
+    "href": "index.html#objectifs-du-projet",
+    "title": "Écrire à l’Université",
+    "section": "2 Objectifs du projet",
+    "text": "2 Objectifs du projet\nCe projet vise à :\n\nGuider les étudiants dans les différentes formes d’écriture universitaire\nAccompagner le développement des compétences rédactionnelles\nFournir des ressources pratiques et des exemples concrets\nPromouvoir les bonnes pratiques de l’écriture académique",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "Écrire à l'Université"
+    ]
+  },
+  {
+    "objectID": "index.html#contenu-disponible",
+    "href": "index.html#contenu-disponible",
+    "title": "Écrire à l’Université",
+    "section": "3 Contenu disponible",
+    "text": "3 Contenu disponible\n\n\n\n\n\n\nNoteNavigation\n\n\n\nExplorez les différentes sections du site via le menu de navigation pour découvrir :\n\nLes principes de l’écriture académique\nDes méthodologies éprouvées\nDes ressources bibliographiques\nDes exemples de documents académiques\n\n\n\n\n3.1 Écriture académique\nDécouvrez les fondamentaux de l’écriture universitaire, les types de documents académiques et les conventions à respecter.\nAccéder au guide →\n\n\n3.2 Méthodologie\nApprenez les méthodes et techniques pour structurer vos écrits, organiser vos idées et rédiger efficacement.\nVoir la méthodologie →\n\n\n3.3 Ressources\nConsultez notre collection de ressources, d’outils et de références pour approfondir vos connaissances.\nExplorer les ressources →\n\n\n3.4 Expérimenter des pratiques innovantes",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "Écrire à l'Université"
+    ]
+  },
+  {
+    "objectID": "index.html#à-propos-de-quarto",
+    "href": "index.html#à-propos-de-quarto",
+    "title": "Écrire à l’Université",
+    "section": "4 À propos de Quarto",
+    "text": "4 À propos de Quarto\n\nCe site est généré avec Quarto, un système de publication scientifique et technique open-source. Quarto permet de créer :\n\nPages web interactives et responsive\nDocuments PDF de qualité professionnelle\nPrésentations dynamiques avec RevealJS\nEt bien plus encore !",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "Écrire à l'Université"
+    ]
+  },
+  {
+    "objectID": "index.html#contact-et-contribution",
+    "href": "index.html#contact-et-contribution",
+    "title": "Écrire à l’Université",
+    "section": "5 Contact et contribution",
+    "text": "5 Contact et contribution\nCe projet est hébergé sur GitHub. N’hésitez pas à contribuer ou à poser des questions.\n\nDernière mise à jour : 20 janvier 2026",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "Écrire à l'Université"
+    ]
+  },
+  {
+    "objectID": "bibliographie.html",
+    "href": "bibliographie.html",
+    "title": "Bibliographie",
+    "section": "",
+    "text": "Beaud, M. (2006). L’art de la thèse : Comment préparer et rédiger un mémoire de master, une thèse de doctorat ou tout autre travail universitaire à l’ère du Net. Paris : La Découverte.\nBooth, W. C., Colomb, G. G., & Williams, J. M. (2016). The Craft of Research (4th ed.). Chicago: University of Chicago Press.\nEco, U. (2016). Comment écrire sa thèse. Paris : Flammarion. (Ouvrage original publié en 1977).\n\n\n\nDelcambre, I., & Lahanier-Reuter, D. (Éds.). (2012). Littéracies universitaires : nouvelles perspectives. Villeneuve d’Ascq : Presses Universitaires du Septentrion.\nPollet, M.-C. (2012). De la maîtrise du français aux littéracies dans l’enseignement supérieur. Namur : Presses universitaires de Namur.\nReuter, Y. (2004). Analyser les problèmes de l’écriture de recherche en formation. Pratiques, 121-122, 9-27.\n\n\n\nStrunk, W., & White, E. B. (2000). The Elements of Style (4th ed.). New York: Longman.\nZinsser, W. (2006). On Writing Well: The Classic Guide to Writing Nonfiction (30th Anniversary ed.). New York: HarperCollins.",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Bibliographie"
+    ]
+  },
+  {
+    "objectID": "bibliographie.html#ouvrages-de-référence",
+    "href": "bibliographie.html#ouvrages-de-référence",
+    "title": "Bibliographie",
+    "section": "",
+    "text": "Beaud, M. (2006). L’art de la thèse : Comment préparer et rédiger un mémoire de master, une thèse de doctorat ou tout autre travail universitaire à l’ère du Net. Paris : La Découverte.\nBooth, W. C., Colomb, G. G., & Williams, J. M. (2016). The Craft of Research (4th ed.). Chicago: University of Chicago Press.\nEco, U. (2016). Comment écrire sa thèse. Paris : Flammarion. (Ouvrage original publié en 1977).\n\n\n\nDelcambre, I., & Lahanier-Reuter, D. (Éds.). (2012). Littéracies universitaires : nouvelles perspectives. Villeneuve d’Ascq : Presses Universitaires du Septentrion.\nPollet, M.-C. (2012). De la maîtrise du français aux littéracies dans l’enseignement supérieur. Namur : Presses universitaires de Namur.\nReuter, Y. (2004). Analyser les problèmes de l’écriture de recherche en formation. Pratiques, 121-122, 9-27.\n\n\n\nStrunk, W., & White, E. B. (2000). The Elements of Style (4th ed.). New York: Longman.\nZinsser, W. (2006). On Writing Well: The Classic Guide to Writing Nonfiction (30th Anniversary ed.). New York: HarperCollins.",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Bibliographie"
+    ]
+  },
+  {
+    "objectID": "bibliographie.html#articles-scientifiques",
+    "href": "bibliographie.html#articles-scientifiques",
+    "title": "Bibliographie",
+    "section": "2 Articles scientifiques",
+    "text": "2 Articles scientifiques\n\n2.1 Didactique de l’écriture\nBeaufort, A. (2007). College Writing and Beyond: A New Framework for University Writing Instruction. Logan: Utah State University Press.\nCarlino, P. (2013). Alfabetización académica diez años después. Revista Mexicana de Investigación Educativa, 18(57), 355-381.\nDelcambre, I., & Donahue, C. (2012). Academic writing activity: Student writing in transition. In M. Castelló & C. Donahue (Eds.), University Writing: Selves and Texts in Academic Societies (pp. 129-149). Bingley: Emerald.\n\n\n2.2 Processus d’écriture\nFlower, L., & Hayes, J. R. (1981). A Cognitive Process Theory of Writing. College Composition and Communication, 32(4), 365-387.\nHayes, J. R. (2012). Modeling and Remodeling Writing. Written Communication, 29(3), 369-388.\n\n\n2.3 Littéracies universitaires\nBarton, D., & Hamilton, M. (2000). Literacy Practices. In D. Barton, M. Hamilton, & R. Ivanič (Eds.), Situated Literacies: Reading and Writing in Context (pp. 7-15). London: Routledge.\nLea, M. R., & Street, B. V. (1998). Student Writing in Higher Education: An Academic Literacies Approach. Studies in Higher Education, 23(2), 157-172.",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Bibliographie"
+    ]
+  },
+  {
+    "objectID": "bibliographie.html#manuels-de-citation",
+    "href": "bibliographie.html#manuels-de-citation",
+    "title": "Bibliographie",
+    "section": "3 Manuels de citation",
+    "text": "3 Manuels de citation\n\n3.1 APA Style\nAmerican Psychological Association. (2020). Publication Manual of the American Psychological Association (7th ed.). Washington, DC: American Psychological Association.\n\n\n3.2 MLA Style\nModern Language Association. (2021). MLA Handbook (9th ed.). New York: Modern Language Association of America.\n\n\n3.3 Chicago Style\nThe University of Chicago Press. (2017). The Chicago Manual of Style (17th ed.). Chicago: University of Chicago Press.\nTurabian, K. L. (2018). A Manual for Writers of Research Papers, Theses, and Dissertations (9th ed.). Chicago: University of Chicago Press.",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Bibliographie"
+    ]
+  },
+  {
+    "objectID": "bibliographie.html#ressources-en-ligne",
+    "href": "bibliographie.html#ressources-en-ligne",
+    "title": "Bibliographie",
+    "section": "4 Ressources en ligne",
+    "text": "4 Ressources en ligne\n\n4.1 Guides universitaires\nPurdue Online Writing Lab (OWL). (n.d.). Academic Writing. Récupéré de https://owl.purdue.edu/owl/general_writing/academic_writing/index.html\nThe Writing Center, University of North Carolina at Chapel Hill. (n.d.). Handouts and Links. Récupéré de https://writingcenter.unc.edu/tips-and-tools/\n\n\n4.2 Bases de données\nCAIRN. (n.d.). Portail de revues en sciences humaines et sociales. Récupéré de https://www.cairn.info\nHAL. (n.d.). Archive ouverte pluridisciplinaire. Récupéré de https://hal.science",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Bibliographie"
+    ]
+  },
+  {
+    "objectID": "bibliographie.html#ouvrages-sur-la-pensée-critique",
+    "href": "bibliographie.html#ouvrages-sur-la-pensée-critique",
+    "title": "Bibliographie",
+    "section": "5 Ouvrages sur la pensée critique",
+    "text": "5 Ouvrages sur la pensée critique\nBowell, T., & Kemp, G. (2015). Critical Thinking: A Concise Guide (4th ed.). London: Routledge.\nFisher, A. (2011). Critical Thinking: An Introduction (2nd ed.). Cambridge: Cambridge University Press.\nPaul, R., & Elder, L. (2019). The Miniature Guide to Critical Thinking Concepts and Tools (8th ed.). Lanham: Rowman & Littlefield.",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Bibliographie"
+    ]
+  },
+  {
+    "objectID": "bibliographie.html#ouvrages-disciplinaires",
+    "href": "bibliographie.html#ouvrages-disciplinaires",
+    "title": "Bibliographie",
+    "section": "6 Ouvrages disciplinaires",
+    "text": "6 Ouvrages disciplinaires\n\n6.1 Sciences sociales\nBecker, H. S. (2020). Writing for Social Scientists: How to Start and Finish Your Thesis, Book, or Article (3rd ed.). Chicago: University of Chicago Press.\nGuibert, J., & Jumel, G. (2016). Méthodologie des pratiques de terrain en sciences humaines et sociales. Paris : Armand Colin.\n\n\n6.2 Sciences exactes\nAlley, M. (2018). The Craft of Scientific Writing (4th ed.). New York: Springer.\nHofmann, A. H. (2019). Scientific Writing and Communication: Papers, Proposals, and Presentations (4th ed.). Oxford: Oxford University Press.\n\n\n6.3 Littérature et humanités\nCuller, J. (2011). Literary Theory: A Very Short Introduction (2nd ed.). Oxford: Oxford University Press.\nRabatel, A. (2012). Positions, positionnements et postures de l’énonciateur. Travaux neuchâtelois de linguistique, 56, 23-42.",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Bibliographie"
+    ]
+  },
+  {
+    "objectID": "bibliographie.html#gestion-du-temps-et-productivité",
+    "href": "bibliographie.html#gestion-du-temps-et-productivité",
+    "title": "Bibliographie",
+    "section": "7 Gestion du temps et productivité",
+    "text": "7 Gestion du temps et productivité\nAllen, D. (2015). Getting Things Done: The Art of Stress-Free Productivity. New York: Penguin Books.\nNewport, C. (2016). Deep Work: Rules for Focused Success in a Distracted World. New York: Grand Central Publishing.\nSilvia, P. J. (2019). How to Write a Lot: A Practical Guide to Productive Academic Writing (2nd ed.). Washington, DC: American Psychological Association.",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Bibliographie"
+    ]
+  },
+  {
+    "objectID": "bibliographie.html#aspects-psychologiques",
+    "href": "bibliographie.html#aspects-psychologiques",
+    "title": "Bibliographie",
+    "section": "8 Aspects psychologiques",
+    "text": "8 Aspects psychologiques\nBoice, R. (1990). Professors as Writers: A Self-Help Guide to Productive Writing. Stillwater: New Forums Press.\nBolker, J. (1998). Writing Your Dissertation in Fifteen Minutes a Day: A Guide to Starting, Revising, and Finishing Your Doctoral Thesis. New York: Henry Holt.",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Bibliographie"
+    ]
+  },
+  {
+    "objectID": "bibliographie.html#éthique-et-intégrité-académique",
+    "href": "bibliographie.html#éthique-et-intégrité-académique",
+    "title": "Bibliographie",
+    "section": "9 Éthique et intégrité académique",
+    "text": "9 Éthique et intégrité académique\nBretag, T. (Ed.). (2016). Handbook of Academic Integrity. Singapore: Springer.\nStern, J. E., & Elliott, D. (1997). The Ethics of Scientific Research: A Guidebook for Course Development. Hanover: University Press of New England.",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Bibliographie"
+    ]
+  },
+  {
+    "objectID": "bibliographie.html#revues-scientifiques",
+    "href": "bibliographie.html#revues-scientifiques",
+    "title": "Bibliographie",
+    "section": "10 Revues scientifiques",
+    "text": "10 Revues scientifiques\nPratiques : Linguistique, littérature, didactique - Revue sur les pratiques d’écriture\nWritten Communication - Revue internationale sur l’écriture\nJournal of Second Language Writing - Pour l’écriture en langue seconde\nAcross the Disciplines - Journal sur l’enseignement de l’écriture",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Bibliographie"
+    ]
+  },
+  {
+    "objectID": "bibliographie.html#notes",
+    "href": "bibliographie.html#notes",
+    "title": "Bibliographie",
+    "section": "11 Notes",
+    "text": "11 Notes\nCette bibliographie est évolutive. Pour des références plus spécifiques à votre domaine, consultez :\n\nLes bibliographies des articles de référence dans votre discipline\nLes listes de lecture de vos cours\nLes recommandations de votre directeur de recherche\nLes bases de données spécialisées\n\n\nMise à jour : 20 janvier 2026\n\n\n\n\n\n\nAstuceSuggestion\n\n\n\nPour gérer efficacement ces références, nous recommandons l’utilisation de Zotero (voir la section Ressources).",
+    "crumbs": [
+      "Accueil",
+      "Documents",
+      "Bibliographie"
+    ]
+  },
+  {
+    "objectID": "presentation.html#bienvenue",
+    "href": "presentation.html#bienvenue",
+    "title": "Écrire à l’Université",
+    "section": "Bienvenue",
+    "text": "Bienvenue\n\nBienvenue dans le projet Écrire à l’Université\nUn guide complet pour l’écriture académique\nDes ressources pour tous les niveaux\nDes outils pratiques et méthodologiques"
+  },
+  {
+    "objectID": "presentation.html#objectifs-de-cette-présentation",
+    "href": "presentation.html#objectifs-de-cette-présentation",
+    "title": "Écrire à l’Université",
+    "section": "Objectifs de cette présentation",
+    "text": "Objectifs de cette présentation\n\nComprendre les principes de l’écriture académique\nDécouvrir les méthodes efficaces\nExplorer les ressources disponibles\nDévelopper ses compétences rédactionnelles"
+  },
+  {
+    "objectID": "presentation.html#quest-ce-que-lécriture-académique",
+    "href": "presentation.html#quest-ce-que-lécriture-académique",
+    "title": "Écrire à l’Université",
+    "section": "Qu’est-ce que l’écriture académique ?",
+    "text": "Qu’est-ce que l’écriture académique ?\n\n\nCaractéristiques :\n\nRigueur\nClarté\nObjectivité\nStructure\n\n\nObjectifs :\n\nCommuniquer des idées\nArgumenter\nConvaincre\nContribuer au savoir"
+  },
+  {
+    "objectID": "presentation.html#types-de-documents",
+    "href": "presentation.html#types-de-documents",
+    "title": "Écrire à l’Université",
+    "section": "Types de documents",
+    "text": "Types de documents\n\nMémoire de recherche\n\nTravail approfondi\nDémonstration de compétences\n\nArticle scientifique\n\nFormat IMRAD\nPublication dans des revues\n\nRapport de stage\n\nAnalyse d’expérience\nRéflexion critique"
+  },
+  {
+    "objectID": "presentation.html#la-structure-imrad",
+    "href": "presentation.html#la-structure-imrad",
+    "title": "Écrire à l’Université",
+    "section": "La structure IMRAD",
+    "text": "La structure IMRAD\n\n\n\n\n\nflowchart TD\n    A[Introduction] --&gt; B[Méthode]\n    B --&gt; C[Résultats]\n    C --&gt; D[Analyse]\n    D --&gt; E[Discussion]\n    style A fill:#3498db\n    style B fill:#2ecc71\n    style C fill:#f39c12\n    style D fill:#e74c3c\n    style E fill:#9b59b6"
+  },
+  {
+    "objectID": "presentation.html#clarté-et-précision",
+    "href": "presentation.html#clarté-et-précision",
+    "title": "Écrire à l’Université",
+    "section": "Clarté et Précision",
+    "text": "Clarté et Précision\n\n\n\n\n\n\nConseil\n\n\nUtilisez des phrases courtes et précises.\n\n\n\n\nStructurez vos paragraphes\nUtilisez des connecteurs logiques\nDéfinissez les termes techniques\nÉvitez les ambiguïtés"
+  },
+  {
+    "objectID": "presentation.html#objectivité",
+    "href": "presentation.html#objectivité",
+    "title": "Écrire à l’Université",
+    "section": "Objectivité",
+    "text": "Objectivité\n\nÀ éviter : &gt; “Je pense que cette théorie est vraiment cool.”\n\n\nÀ privilégier : &gt; “Cette théorie présente plusieurs avantages méthodologiques.”"
+  },
+  {
+    "objectID": "presentation.html#rigueur-méthodologique",
+    "href": "presentation.html#rigueur-méthodologique",
+    "title": "Écrire à l’Université",
+    "section": "Rigueur Méthodologique",
+    "text": "Rigueur Méthodologique\n\n\n\nAspect\nBonne pratique\n\n\n\n\nCitations\nSystématiquement citées\n\n\nSources\nFiables et vérifiées\n\n\nParaphrase\nAvec vos propres mots\n\n\nStyle\nRespecte les normes"
+  },
+  {
+    "objectID": "presentation.html#les-5-étapes",
+    "href": "presentation.html#les-5-étapes",
+    "title": "Écrire à l’Université",
+    "section": "Les 5 Étapes",
+    "text": "Les 5 Étapes\n\n🔍 Recherche - Collecter l’information\n📝 Planification - Organiser les idées\n✍️ Rédaction - Produire le premier jet\n🔄 Révision - Améliorer le contenu\n✅ Finalisation - Corriger et mettre en forme"
+  },
+  {
+    "objectID": "presentation.html#la-règle-des-40-20-40",
+    "href": "presentation.html#la-règle-des-40-20-40",
+    "title": "Écrire à l’Université",
+    "section": "La Règle des 40-20-40",
+    "text": "La Règle des 40-20-40\n\n\n40% - Recherche et Planification\nCollecte d’information, lectures, plan détaillé\n\n\n20% - Rédaction\nPremier jet, mise par écrit des idées\n\n\n40% - Révision et Finalisation\nAmélioration, correction, mise en forme"
+  },
+  {
+    "objectID": "presentation.html#surmonter-la-page-blanche",
+    "href": "presentation.html#surmonter-la-page-blanche",
+    "title": "Écrire à l’Université",
+    "section": "Surmonter la Page Blanche",
+    "text": "Surmonter la Page Blanche\n\nFree writing : Écrire 10 min sans s’arrêter\nPlan inversé : Commencer par une partie facile\nObjectifs modestes : 500 mots par session\nRoutine : Même heure, même lieu"
+  },
+  {
+    "objectID": "presentation.html#le-paragraphe-académique",
+    "href": "presentation.html#le-paragraphe-académique",
+    "title": "Écrire à l’Université",
+    "section": "Le Paragraphe Académique",
+    "text": "Le Paragraphe Académique\n\n\nPhrase d’introduction (topic sentence)\n\n\n\n\nDéveloppement et exemples\n\n\n\n\nCitation ou données\n\n\n\n\nAnalyse et interprétation\n\n\n\n\nPhrase de transition"
+  },
+  {
+    "objectID": "presentation.html#exemple-de-paragraphe",
+    "href": "presentation.html#exemple-de-paragraphe",
+    "title": "Écrire à l’Université",
+    "section": "Exemple de Paragraphe",
+    "text": "Exemple de Paragraphe\n\n\n\nIntroduction : L’apprentissage de l’écriture académique nécessite une pratique régulière.\nDéveloppement : Selon Delcambre (2012), les étudiants qui écrivent régulièrement développent plus rapidement leurs compétences.\nAnalyse : Ces observations suggèrent que l’écriture s’apprend surtout par l’exercice répété.\nTransition : Cette dimension pratique soulève la question des dispositifs d’accompagnement…"
+  },
+  {
+    "objectID": "presentation.html#recherche-documentaire",
+    "href": "presentation.html#recherche-documentaire",
+    "title": "Écrire à l’Université",
+    "section": "Recherche Documentaire",
+    "text": "Recherche Documentaire\n\n\nBases de données :\n\nGoogle Scholar\nJSTOR\nCairn.info\nPubMed\narXiv\n\n\nCritères de qualité :\n\nAuteur reconnu\nRevue à comité\nDate récente\nRéférences complètes"
+  },
+  {
+    "objectID": "presentation.html#gestion-bibliographique",
+    "href": "presentation.html#gestion-bibliographique",
+    "title": "Écrire à l’Université",
+    "section": "Gestion Bibliographique",
+    "text": "Gestion Bibliographique\n\n\n\nZotero\nGratuit et complet\n\n\nMendeley\nIntégré à Word\n\n\nEndNote\nStandard discipline"
+  },
+  {
+    "objectID": "presentation.html#correcteurs",
+    "href": "presentation.html#correcteurs",
+    "title": "Écrire à l’Université",
+    "section": "Correcteurs",
+    "text": "Correcteurs\n\nAntidote (français) - Correcteur complet\nGrammarly (anglais) - Assistant IA\nLanguageTool (multilingue) - Open source"
+  },
+  {
+    "objectID": "presentation.html#styles-de-citation",
+    "href": "presentation.html#styles-de-citation",
+    "title": "Écrire à l’Université",
+    "section": "Styles de Citation",
+    "text": "Styles de Citation\n\nAPA (American Psychological Association)\nSciences sociales, psychologie, éducation\n\n\nMLA (Modern Language Association)\nLittérature, arts, humanités\n\n\nChicago\nHistoire, sciences sociales"
+  },
+  {
+    "objectID": "presentation.html#checklist-de-révision",
+    "href": "presentation.html#checklist-de-révision",
+    "title": "Écrire à l’Université",
+    "section": "Checklist de Révision",
+    "text": "Checklist de Révision\n\n\nStructure\n\n✓ Introduction claire\n✓ Plan logique\n✓ Transitions\n✓ Conclusion\n\n\nContenu\n\n✓ Arguments sourcés\n✓ Citations intégrées\n✓ Analyse présente\n✓ Exemples pertinents"
+  },
+  {
+    "objectID": "presentation.html#éviter-le-plagiat",
+    "href": "presentation.html#éviter-le-plagiat",
+    "title": "Écrire à l’Université",
+    "section": "Éviter le Plagiat",
+    "text": "Éviter le Plagiat\n\n\n\n\n\n\nAttention !\n\n\nLe plagiat peut entraîner des sanctions graves.\n\n\n\n\nCitez toutes vos sources\nParaphrasez avec vos propres mots\nUtilisez des guillemets pour les citations directes\nMême vos travaux antérieurs doivent être cités"
+  },
+  {
+    "objectID": "presentation.html#technique-pomodoro",
+    "href": "presentation.html#technique-pomodoro",
+    "title": "Écrire à l’Université",
+    "section": "Technique Pomodoro",
+    "text": "Technique Pomodoro\n\n\n25 minutes de travail concentré\n5 minutes de pause\nAprès 4 cycles : pause longue (15-30 min)"
+  },
+  {
+    "objectID": "presentation.html#pourquoi-quarto",
+    "href": "presentation.html#pourquoi-quarto",
+    "title": "Écrire à l’Université",
+    "section": "Pourquoi Quarto ?",
+    "text": "Pourquoi Quarto ?\n\n📄 Multi-formats : HTML, PDF, présentations\n🔄 Reproductible : Code + texte\n🎨 Flexible : Personnalisation facile\n🌐 Open source : Gratuit et communautaire"
+  },
+  {
+    "objectID": "presentation.html#ce-que-vous-pouvez-créer",
+    "href": "presentation.html#ce-que-vous-pouvez-créer",
+    "title": "Écrire à l’Université",
+    "section": "Ce que vous pouvez créer",
+    "text": "Ce que vous pouvez créer\n\n\nSites Web\nDocumentation interactive et responsive\n\nDocuments PDF\nArticles et mémoires professionnels\n\nPrésentations\nSlides dynamiques comme celle-ci !"
+  },
+  {
+    "objectID": "presentation.html#exemple-de-code-quarto",
+    "href": "presentation.html#exemple-de-code-quarto",
+    "title": "Écrire à l’Université",
+    "section": "Exemple de Code Quarto",
+    "text": "Exemple de Code Quarto\n---\ntitle: \"Mon Document\"\nformat: html\n---\n\n## Introduction\n\nMon texte avec **mise en forme**.\n\n```{r}\n# Code R intégré\nsummary(cars)"
+  },
+  {
+    "objectID": "presentation.html#points-clés-à-retenir",
+    "href": "presentation.html#points-clés-à-retenir",
+    "title": "Écrire à l’Université",
+    "section": "Points Clés à Retenir",
+    "text": "Points Clés à Retenir\n\nL’écriture académique demande rigueur et clarté\nLa méthodologie est essentielle\nLes outils facilitent le travail\nLa pratique régulière améliore les compétences"
+  },
+  {
+    "objectID": "presentation.html#ressources-disponibles",
+    "href": "presentation.html#ressources-disponibles",
+    "title": "Écrire à l’Université",
+    "section": "Ressources Disponibles",
+    "text": "Ressources Disponibles\n\n\n\n\n\n\nSur notre site\n\n\n\nGuides détaillés\nMéthodologie complète\nBibliographie commentée\nExemples et modèles"
+  },
+  {
+    "objectID": "presentation.html#pour-aller-plus-loin",
+    "href": "presentation.html#pour-aller-plus-loin",
+    "title": "Écrire à l’Université",
+    "section": "Pour Aller Plus Loin",
+    "text": "Pour Aller Plus Loin\n\n📚 Consultez notre bibliographie\n🛠️ Explorez les ressources\n📖 Lisez le guide complet\n💬 Rejoignez la communauté sur GitHub"
+  },
+  {
+    "objectID": "presentation.html#questions",
+    "href": "presentation.html#questions",
+    "title": "Écrire à l’Université",
+    "section": "Questions ?",
+    "text": "Questions ?\n\nMerci de votre attention !\n\n\n🌐 github.com/samszo/EcrireALUniv"
+  },
+  {
+    "objectID": "ecriture-academique.html",
+    "href": "ecriture-academique.html",
+    "title": "L’Écriture Académique",
+    "section": "",
+    "text": "L’écriture académique est une compétence essentielle pour réussir dans l’enseignement supérieur. Elle se caractérise par sa rigueur, sa clarté et son objectivité.",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "L'Écriture Académique"
+    ]
+  },
+  {
+    "objectID": "ecriture-academique.html#introduction",
+    "href": "ecriture-academique.html#introduction",
+    "title": "L’Écriture Académique",
+    "section": "",
+    "text": "L’écriture académique est une compétence essentielle pour réussir dans l’enseignement supérieur. Elle se caractérise par sa rigueur, sa clarté et son objectivité.",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "L'Écriture Académique"
+    ]
+  },
+  {
+    "objectID": "ecriture-academique.html#les-types-de-documents-académiques",
+    "href": "ecriture-academique.html#les-types-de-documents-académiques",
+    "title": "L’Écriture Académique",
+    "section": "2 Les types de documents académiques",
+    "text": "2 Les types de documents académiques\n\n2.1 1. Le mémoire de recherche\nLe mémoire est un travail de recherche approfondi qui démontre votre capacité à :\n\nProblématiser un sujet\nConduire une recherche bibliographique\nAnalyser des données\nArgumenter de manière structurée\n\n\n\n\n\n\n\nImportantStructure type d’un mémoire\n\n\n\n\nIntroduction (contexte, problématique, méthodologie)\nRevue de littérature\nMéthodologie\nRésultats et analyse\nDiscussion\nConclusion\nBibliographie\n\n\n\n\n\n2.2 2. L’article scientifique\nL’article scientifique suit généralement le format IMRAD :\n\nIntroduction\nMéthode\nRésultats\nAnalyse (et discussion)\nDiscussion\n\n\n\n2.3 3. Le rapport de stage\nLe rapport de stage présente :\n\nLe contexte de l’organisation\nLes missions confiées\nLes réalisations et apprentissages\nUne analyse critique de l’expérience",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "L'Écriture Académique"
+    ]
+  },
+  {
+    "objectID": "ecriture-academique.html#principes-fondamentaux",
+    "href": "ecriture-academique.html#principes-fondamentaux",
+    "title": "L’Écriture Académique",
+    "section": "3 Principes fondamentaux",
+    "text": "3 Principes fondamentaux\n\n3.1 Clarté et précision\n\nConseil : Utilisez des phrases courtes et précises. Évitez les formulations ambiguës.\n\n\nStructurez vos paragraphes autour d’une idée principale\nUtilisez des connecteurs logiques\nDéfinissez les termes techniques\n\n\n\n3.2 Objectivité\nL’écriture académique requiert une distanciation :\n\nÉvitez la première personne (sauf dans certaines disciplines)\nAppuyez vos affirmations sur des sources\nDistinguez faits et opinions\n\n\n\n3.3 Rigueur méthodologique\n\nCitez systématiquement vos sources\nRespectez les normes de citation (APA, MLA, Chicago, etc.)\nVérifiez la fiabilité de vos références",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "L'Écriture Académique"
+    ]
+  },
+  {
+    "objectID": "ecriture-academique.html#le-processus-décriture",
+    "href": "ecriture-academique.html#le-processus-décriture",
+    "title": "L’Écriture Académique",
+    "section": "4 Le processus d’écriture",
+    "text": "4 Le processus d’écriture\n\n\n\n\n\nflowchart LR\n    A[Recherche] --&gt; B[Plan]\n    B --&gt; C[Première rédaction]\n    C --&gt; D[Révision]\n    D --&gt; E[Relecture]\n    E --&gt; F[Version finale]\n\n\n\n\n\n\n\n4.1 Étape 1 : La recherche\n\nDélimitez votre sujet\nCollectez des sources fiables\nPrenez des notes organisées\n\n\n\n4.2 Étape 2 : La planification\n\nÉlaborez un plan détaillé\nOrganisez vos arguments\nPrévoyez des transitions\n\n\n\n4.3 Étape 3 : La rédaction\n\nCommencez par les parties les plus faciles\nNe cherchez pas la perfection au premier jet\nMaintenez un fil conducteur\n\n\n\n4.4 Étape 4 : La révision\n\nVérifiez la cohérence globale\nRenforcez l’argumentation\nAjoutez ou supprimez des éléments\n\n\n\n4.5 Étape 5 : La relecture\n\nCorrigez orthographe et grammaire\nUniformisez le style\nVérifiez les citations et références",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "L'Écriture Académique"
+    ]
+  },
+  {
+    "objectID": "ecriture-academique.html#style-et-ton",
+    "href": "ecriture-academique.html#style-et-ton",
+    "title": "L’Écriture Académique",
+    "section": "5 Style et ton",
+    "text": "5 Style et ton\n\n5.1 Vocabulaire académique\nPrivilégiez un vocabulaire :\n\nPrécis et spécialisé\nFormel mais accessible\nAdapté à votre discipline\n\n\n\n5.2 Exemples de formulations\n\n\n\n\n\n\n\nÀ éviter\nÀ privilégier\n\n\n\n\n“Je pense que…”\n“Cette analyse suggère que…”\n\n\n“C’est évident que…”\n“Les données indiquent que…”\n\n\n“Tout le monde sait que…”\n“Il est établi que…”\n\n\n“C’est super intéressant”\n“Cette approche présente un intérêt majeur”",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "L'Écriture Académique"
+    ]
+  },
+  {
+    "objectID": "ecriture-academique.html#citations-et-références",
+    "href": "ecriture-academique.html#citations-et-références",
+    "title": "L’Écriture Académique",
+    "section": "6 Citations et références",
+    "text": "6 Citations et références\n\n6.1 Citation directe\nLorsque vous citez textuellement un auteur :\n\n“L’écriture académique est un processus itératif qui nécessite plusieurs phases de révision et d’amélioration” (Dupont, 2023, p. 45).\n\n\n\n6.2 Citation indirecte (paraphrase)\nSelon Dupont (2023), la rédaction universitaire implique plusieurs étapes de révision successives.\n\n\n6.3 Système de référencement\nLes principaux styles de citation :\n\nAPA : Sciences sociales, psychologie, éducation\nMLA : Littérature, arts, humanités\nChicago : Histoire, sciences sociales\nIEEE : Sciences de l’ingénieur, informatique",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "L'Écriture Académique"
+    ]
+  },
+  {
+    "objectID": "ecriture-academique.html#exercices-pratiques",
+    "href": "ecriture-academique.html#exercices-pratiques",
+    "title": "L’Écriture Académique",
+    "section": "7 Exercices pratiques",
+    "text": "7 Exercices pratiques\n\n\n\n\n\n\nAstuceExercice 1 : Analyse de structure\n\n\n\nPrenez un article de votre domaine et identifiez :\n\nLa problématique\nLes arguments principaux\nLes transitions\nLa conclusion\n\n\n\n\n\n\n\n\n\nAstuceExercice 2 : Révision de style\n\n\n\nRéécrivez les phrases suivantes en style académique :\n\n“Je trouve que cette théorie est vraiment cool.”\n“Tout le monde utilise cette méthode.”\n“C’est complètement faux.”",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "L'Écriture Académique"
+    ]
+  },
+  {
+    "objectID": "ecriture-academique.html#ressources-complémentaires",
+    "href": "ecriture-academique.html#ressources-complémentaires",
+    "title": "L’Écriture Académique",
+    "section": "8 Ressources complémentaires",
+    "text": "8 Ressources complémentaires\nPour aller plus loin :\n\nConsultez la section Ressources\nExplorez la Bibliographie\nRegardez la Présentation sur l’écriture académique",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "L'Écriture Académique"
+    ]
+  },
+  {
+    "objectID": "ecriture-academique.html#conclusion",
+    "href": "ecriture-academique.html#conclusion",
+    "title": "L’Écriture Académique",
+    "section": "9 Conclusion",
+    "text": "9 Conclusion\nL’écriture académique est une compétence qui s’acquiert par la pratique régulière. N’hésitez pas à :\n\nLire des publications dans votre domaine\nDemander des retours sur vos écrits\nParticiper à des ateliers d’écriture\nUtiliser les ressources de votre université\n\n\nPour toute question ou suggestion, n’hésitez pas à contribuer sur GitHub.",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "L'Écriture Académique"
+    ]
+  },
+  {
+    "objectID": "methodologie.html",
+    "href": "methodologie.html",
+    "title": "Méthodologie de l’Écriture",
+    "section": "",
+    "text": "Une méthodologie efficace est essentielle pour produire des écrits académiques de qualité. Ce guide présente des techniques éprouvées pour organiser votre travail et optimiser votre processus d’écriture.",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "Méthodologie de l'Écriture"
+    ]
+  },
+  {
+    "objectID": "methodologie.html#introduction",
+    "href": "methodologie.html#introduction",
+    "title": "Méthodologie de l’Écriture",
+    "section": "",
+    "text": "Une méthodologie efficace est essentielle pour produire des écrits académiques de qualité. Ce guide présente des techniques éprouvées pour organiser votre travail et optimiser votre processus d’écriture.",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "Méthodologie de l'Écriture"
+    ]
+  },
+  {
+    "objectID": "methodologie.html#planification-du-travail",
+    "href": "methodologie.html#planification-du-travail",
+    "title": "Méthodologie de l’Écriture",
+    "section": "2 Planification du travail",
+    "text": "2 Planification du travail\n\n2.1 Gestion du temps\n\nRègle des 40-20-40\n\n40% du temps : Recherche et planification\n20% du temps : Rédaction du premier jet\n40% du temps : Révision et finalisation\n\n\n\n\n2.2 Calendrier type pour un mémoire\n\n\n\nÉtape\nDurée\nObjectif\n\n\n\n\nChoix du sujet\n1-2 semaines\nDéfinir la problématique\n\n\nRecherche bibliographique\n3-4 semaines\nConstituer le corpus\n\n\nPlan détaillé\n1 semaine\nStructurer l’argumentation\n\n\nRédaction\n4-6 semaines\nProduire le premier jet\n\n\nRévision\n2-3 semaines\nAméliorer le contenu\n\n\nFinalisation\n1 semaine\nMise en forme finale",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "Méthodologie de l'Écriture"
+    ]
+  },
+  {
+    "objectID": "methodologie.html#techniques-de-recherche",
+    "href": "methodologie.html#techniques-de-recherche",
+    "title": "Méthodologie de l’Écriture",
+    "section": "3 Techniques de recherche",
+    "text": "3 Techniques de recherche\n\n3.1 Recherche documentaire\n\nDéfinir les mots-clés\n\nTermes principaux\nSynonymes et variantes\nTermes en anglais\n\nExplorer les bases de données\n\nGoogle Scholar\nJSTOR\nCairn.info\nPubMed (sciences médicales)\narXiv (sciences exactes)\n\nÉvaluer les sources\n\n\n\n\n\n\n\nAvertissementCritères de fiabilité\n\n\n\n\nAuteur reconnu dans le domaine\nPublication dans une revue à comité de lecture\nDate de publication récente\nRéférences bibliographiques complètes\n\n\n\n\n\n3.2 Prise de notes efficace\nUtilisez la méthode Cornell :\n┌─────────────────────────────────────┐\n│         Notes principales           │\n│                                     │\n│  - Point clé 1                      │\n│  - Point clé 2                      │\n│  - Citation importante              │\n│                                     │\n├─────────────┬───────────────────────┤\n│  Mots-clés  │    Résumé             │\n│             │                       │\n└─────────────┴───────────────────────┘",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "Méthodologie de l'Écriture"
+    ]
+  },
+  {
+    "objectID": "methodologie.html#structuration-de-largumentation",
+    "href": "methodologie.html#structuration-de-largumentation",
+    "title": "Méthodologie de l’Écriture",
+    "section": "4 Structuration de l’argumentation",
+    "text": "4 Structuration de l’argumentation\n\n4.1 Le paragraphe académique\nStructure type d’un paragraphe :\n\nPhrase d’introduction (topic sentence)\nDéveloppement et exemples\nCitation ou données\nAnalyse et interprétation\nPhrase de transition\n\n\n\n4.2 Exemple de paragraphe structuré\n\nPhrase d’introduction : L’apprentissage de l’écriture académique nécessite une pratique régulière et réflexive.\nDéveloppement : Selon Delcambre (2012), les étudiants qui écrivent régulièrement développent plus rapidement leurs compétences rédactionnelles. Cette pratique permet d’intérioriser les normes et conventions propres à chaque discipline.\nAnalyse : Ces observations suggèrent que l’écriture ne s’apprend pas uniquement par la théorie, mais surtout par l’exercice répété et la rétroaction.\nTransition : Cette dimension pratique soulève la question des dispositifs d’accompagnement…",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "Méthodologie de l'Écriture"
+    ]
+  },
+  {
+    "objectID": "methodologie.html#révision-et-amélioration",
+    "href": "methodologie.html#révision-et-amélioration",
+    "title": "Méthodologie de l’Écriture",
+    "section": "5 Révision et amélioration",
+    "text": "5 Révision et amélioration\n\n5.1 Niveaux de révision\n\n5.1.1 1. Révision structurelle\n\nCohérence de l’argumentation\nOrganisation des parties\nFil conducteur\n\n\n\n5.1.2 2. Révision du contenu\n\nPertinence des exemples\nQualité de l’analyse\nSuffisance des preuves\n\n\n\n5.1.3 3. Révision stylistique\n\nClarté des phrases\nVariété du vocabulaire\nTon approprié\n\n\n\n5.1.4 4. Révision formelle\n\nOrthographe et grammaire\nPonctuation\nMise en page\n\n\n\n\n5.2 Checklist de révision\n## Structure\n- [ ] Introduction avec problématique claire\n- [ ] Plan apparent et logique\n- [ ] Transitions entre les parties\n- [ ] Conclusion qui répond à la problématique\n\n## Contenu\n- [ ] Arguments appuyés par des sources\n- [ ] Citations correctement intégrées\n- [ ] Analyse critique présente\n- [ ] Exemples pertinents\n\n## Style\n- [ ] Phrases claires et concises\n- [ ] Vocabulaire approprié\n- [ ] Ton académique maintenu\n- [ ] Cohérence terminologique\n\n## Forme\n- [ ] Orthographe vérifiée\n- [ ] Grammaire correcte\n- [ ] Bibliographie complète\n- [ ] Mise en page uniforme",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "Méthodologie de l'Écriture"
+    ]
+  },
+  {
+    "objectID": "methodologie.html#outils-et-ressources",
+    "href": "methodologie.html#outils-et-ressources",
+    "title": "Méthodologie de l’Écriture",
+    "section": "6 Outils et ressources",
+    "text": "6 Outils et ressources\n\n6.1 Logiciels de gestion bibliographique\n\nZotero : Gratuit, open-source, très complet\nMendeley : Intégration avec Microsoft Word\nEndNote : Standard dans certaines disciplines\n\n\n\n6.2 Correcteurs et outils linguistiques\n\nAntidote (français)\nGrammarly (anglais)\nLanguageTool (multilingue, open-source)\n\n\n\n6.3 Outils de planification\n\nTrello ou Notion pour la gestion de projet\nMindMeister pour les cartes mentales\nScrivener pour l’écriture longue",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "Méthodologie de l'Écriture"
+    ]
+  },
+  {
+    "objectID": "methodologie.html#stratégies-décriture",
+    "href": "methodologie.html#stratégies-décriture",
+    "title": "Méthodologie de l’Écriture",
+    "section": "7 Stratégies d’écriture",
+    "text": "7 Stratégies d’écriture\n\n7.1 Pour surmonter le syndrome de la page blanche\n\nFree writing : Écrire pendant 10 minutes sans s’arrêter\nPlan inversé : Commencer par une partie facile\nObjectifs modestes : Viser 500 mots par session\nRoutine d’écriture : Même heure, même lieu\n\n\n\n7.2 Pour améliorer la productivité\n\n\n\n\n\n\nAstuceTechnique Pomodoro\n\n\n\n\n25 minutes de travail concentré\n5 minutes de pause\nAprès 4 cycles, pause longue de 15-30 minutes\n\n\n\n\n\n7.3 Pour maintenir la motivation\n\nCélébrez les petites victoires\nRejoignez un groupe d’écriture\nDemandez des retours réguliers\nGardez en tête l’objectif final",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "Méthodologie de l'Écriture"
+    ]
+  },
+  {
+    "objectID": "methodologie.html#collaboration-et-retours",
+    "href": "methodologie.html#collaboration-et-retours",
+    "title": "Méthodologie de l’Écriture",
+    "section": "8 Collaboration et retours",
+    "text": "8 Collaboration et retours\n\n8.1 Recevoir des commentaires\n\nSoyez ouvert aux critiques constructives\nPosez des questions spécifiques\nPrenez le temps d’intégrer les suggestions\nGardez une trace des versions\n\n\n\n8.2 Donner des commentaires\nLorsque vous relisez le travail d’un pair :\n\nCommencez par les points positifs\nSoyez spécifique et constructif\nProposez des solutions, pas seulement des critiques\nRespectez le style de l’auteur",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "Méthodologie de l'Écriture"
+    ]
+  },
+  {
+    "objectID": "methodologie.html#éthique-de-lécriture",
+    "href": "methodologie.html#éthique-de-lécriture",
+    "title": "Méthodologie de l’Écriture",
+    "section": "9 Éthique de l’écriture",
+    "text": "9 Éthique de l’écriture\n\n9.1 Éviter le plagiat\n\nCitez toutes vos sources\nParaphrasez avec vos propres mots\nUtilisez des guillemets pour les citations directes\nMentionnez même les idées générales\n\n\n\n\n\n\n\nAvertissementAttention\n\n\n\nLe plagiat, même involontaire, peut avoir des conséquences graves : - Note zéro - Sanctions disciplinaires - Atteinte à votre réputation académique\n\n\n\n\n9.2 Auto-citation\nMême vos propres travaux antérieurs doivent être cités pour éviter l’auto-plagiat.",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "Méthodologie de l'Écriture"
+    ]
+  },
+  {
+    "objectID": "methodologie.html#conclusion",
+    "href": "methodologie.html#conclusion",
+    "title": "Méthodologie de l’Écriture",
+    "section": "10 Conclusion",
+    "text": "10 Conclusion\nUne méthodologie rigoureuse transforme l’écriture académique d’une tâche intimidante en un processus maîtrisable. La clé du succès réside dans :\n\nLa planification\nLa régularité\nLa rigueur\nL’ouverture aux retours\n\nN’oubliez pas : l’écriture académique s’améliore avec la pratique !",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "Méthodologie de l'Écriture"
+    ]
+  },
+  {
+    "objectID": "methodologie.html#pour-aller-plus-loin",
+    "href": "methodologie.html#pour-aller-plus-loin",
+    "title": "Méthodologie de l’Écriture",
+    "section": "11 Pour aller plus loin",
+    "text": "11 Pour aller plus loin\n\nGuide de l’écriture académique\nRessources et bibliographie\nPrésentation sur les méthodes d’écriture",
+    "crumbs": [
+      "Accueil",
+      "Guide d'écriture",
+      "Méthodologie de l'Écriture"
+    ]
+  }
+]
